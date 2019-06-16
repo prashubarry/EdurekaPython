@@ -1,0 +1,1798 @@
+,Age,Ethinicity,ID,Name,Score,Sex,Subject
+0,18,White American,1,AI-KYUNG CHUNG,88.0,1,Maths
+1,19,European American,2,ALAN HARVEY,85.0,1,Maths
+2,19,European American,3,ALAN REYNAUD,45.0,1,Maths
+3,18,White American,4,ALBERT CENDANA,82.0,1,Maths
+4,18,White American,5,ALBERT HOLT JR,82.0,2,Maths
+5,20,White American,6,ALBERT PARDINI,95.0,1,Maths
+6,18,White American,7,ALBERT YU,95.0,1,Maths
+7,19,White American,8,ALBERTO PEDRUCO,65.0,1,Maths
+8,18,Hispanic,9,ALEC BALMY,88.0,1,Maths
+9,19,Hispanic,10,ALEETA VAN RUNKLE,88.0,2,Maths
+10,20,White American,11,ALEX TSE,53.0,1,Maths
+11,20,White American,12,ALEXANDER CHEN,53.0,1,Maths
+12,19,White American,13,ALEXANDER KWAN,66.0,1,Maths
+13,18,White American,14,ALEXIS GOLDNER,88.0,1,Maths
+14,21,White American,15,ALLEN TURPIN,88.0,2,Maths
+15,20,White American,16,ALSON LEE,82.0,1,Maths
+16,18,White American,17,ALVIN LAU,31.0,1,Maths
+17,18,European American,18,AMEN CHOW,95.0,1,Maths
+18,18,Hispanic,19,AMPARO RODRIGUEZ,91.0,1,Maths
+19,18,White American,20,AMY BROWN,66.0,2,Maths
+20,18,Hispanic,21,AMY HART,82.0,1,Maths
+21,18,European American,22,ANA SAMPERA,66.0,1,Maths
+22,18,White American,23,ANDRE ANDREWS SR,75.0,1,Maths
+23,19,Hispanic,24,ANDRE WILLIAMS,65.0,1,Maths
+24,20,European American,25,ANDREW LOGAN,91.0,2,Maths
+25,18,White American,26,ANDREW SAITZ,91.0,1,Maths
+26,20,Hispanic,27,ANDY ZANOFF,53.0,1,Maths
+27,20,European American,28,ANGELA PLATZER,91.0,1,Maths
+28,21,Hispanic,29,ANN MANNIX,88.0,1,Maths
+29,19,White American,30,ANNA BROWN,85.0,2,Maths
+30,20,White American,31,ANNE KRONENBERG,75.0,1,Maths
+31,21,European American,32,ANNETTE HOBRUCKER-PFEIFER,66.0,1,Maths
+32,19,European American,33,ANTHONY DUMONT,45.0,1,Maths
+33,18,European American,34,ANTHONY ROBINSON,66.0,1,Maths
+34,20,Hispanic,35,ANTONIO FLORES,53.0,2,Maths
+35,19,White American,36,ANTONIO PARRA,65.0,1,Maths
+36,18,White American,37,ANTONIO SANTIAGO,53.0,1,Maths
+37,20,White American,38,ARNIE LEE,75.0,1,Maths
+38,18,White American,39,ARNOLD CHOY,45.0,1,Maths
+39,19,White American,40,ARTHUR BORGES,66.0,2,Maths
+40,20,European American,41,ARTHUR KENNEY,75.0,1,Maths
+41,20,African American,42,ARTHUR STELLINI,95.0,1,Maths
+42,21,White American,43,ATTICA BOWDEN,65.0,1,Maths
+43,18,European American,44,BARBARA GARCIA,85.0,1,Maths
+44,20,European American,45,BARBARA HALE,82.0,2,Maths
+45,21,African American,46,BARBARA SCHULTHEIS,65.0,1,Maths
+46,21,White American,47,BARRY BLOOM,85.0,1,Maths
+47,18,Hispanic,48,BENJAMIN ROSENFIELD,82.0,1,Maths
+48,18,Hispanic,49,BERGLIOTH MATHEWS,65.0,1,Maths
+49,19,White American,50,BERT REYES,66.0,2,Maths
+50,18,European American,51,BOND YEE,82.0,1,Maths
+51,19,White American,52,BONNIE TAYLOR,88.0,1,Maths
+52,19,African American,53,BRADEN WOODS,0.0,1,Maths
+53,20,White American,54,BRENDAN MCGORRIN,95.0,1,Maths
+54,21,White American,55,BRENDAN WARD,88.0,2,Maths
+55,18,Hispanic,56,BRIAN DELAHUNTY,91.0,1,Maths
+56,20,European American,57,BRIAN MURPHY,53.0,1,Maths
+57,20,White American,58,BRIAN PHILPOTT,75.0,1,Maths
+58,20,White American,59,BRODERICK TOPPS,75.0,1,Maths
+59,18,Hispanic,60,BRONWYN GUNDOGDU,95.0,2,Maths
+60,19,White American,61,BROOK MANCINELLI,88.0,1,Maths
+61,18,African American,62,BRYAN MAR,53.0,1,Maths
+62,20,White American,63,BRYAN RUBENSTEIN,82.0,1,Maths
+63,18,White American,64,BURK DELVENTHAL,82.0,1,Maths
+64,21,Hispanic,65,C PETRUZZELLA,85.0,2,Maths
+65,21,White American,66,CANTREZ TRIPLETT,45.0,1,Maths
+66,20,Hispanic,67,CARL FABBRI,75.0,1,Maths
+67,21,Hispanic,68,CARL JEPSEN,66.0,1,Maths
+68,19,European American,69,CARLOS GUTIERREZ,45.0,1,Maths
+69,20,White American,70,CATHERINE JAMES,75.0,2,Maths
+70,20,White American,71,CHAD LAW,53.0,1,Maths
+71,21,White American,72,CHARLES CRANE,65.0,1,Maths
+72,20,White American,73,CHARLES SCOTT,53.0,1,Maths
+73,19,European American,74,CHARLES STINSON,85.0,1,Maths
+74,18,Hispanic,75,CHARLIE ORKES,82.0,2,Maths
+75,20,Hispanic,76,CHRIS VEIN,95.0,1,Maths
+76,19,White American,77,CHRISTIANE HAYASHI,66.0,1,Maths
+77,20,White American,78,CHRISTINE WINKLER,53.0,1,Maths
+78,18,White American,79,CHRISTOPHER CHONG,65.0,1,Maths
+79,19,European American,80,CHRISTOPHER HAZEN,85.0,2,Maths
+80,19,European American,81,CHUTEH KOTAKE,88.0,1,Maths
+81,18,White American,82,CLEMENTINO AVILA II,95.0,1,Maths
+82,20,European American,83,CLYDE CHRISTOBAL,53.0,1,Maths
+83,19,Hispanic,84,COLLEEN RILEY,45.0,1,Maths
+84,21,White American,85,CRISTINA REYES,45.0,2,Maths
+85,18,White American,86,CROCE CASCIATO,85.0,1,Maths
+86,19,European American,87,CURTIS LUM,45.0,1,Maths
+87,21,European American,88,DALE CARNES,85.0,1,Maths
+88,18,White American,89,DAMON HART,45.0,1,Maths
+89,21,African American,90,DANIEL ARMENTA,45.0,2,Maths
+90,19,Hispanic,91,DANIEL COX,85.0,1,Maths
+91,19,White American,92,DANIEL CUNNINGHAM,88.0,1,Maths
+92,19,White American,93,DANIEL DEDET,85.0,1,Maths
+93,18,White American,94,DANIEL MAHONEY,91.0,1,Maths
+94,19,African American,95,DANIEL MOLLOY,65.0,2,Maths
+95,18,White American,96,DANIEL SCDORIS,75.0,1,Maths
+96,19,White American,97,DANIEL YONTS,88.0,1,Maths
+97,18,White American,98,DARCY KELLER,95.0,1,Maths
+98,21,European American,99,DARREN CHOY,65.0,1,Maths
+99,19,Hispanic,100,DARRYL HUNTER,65.0,2,Maths
+100,18,Hispanic,101,DAVID BRIGGS,45.0,1,Maths
+101,20,African American,102,DAVID FRANKLIN,53.0,1,Maths
+102,18,European American,103,DAVID HAWKINS,95.0,1,Maths
+103,21,White American,104,DAVID KUSHNER,66.0,1,Maths
+104,18,European American,105,DAVID LAZAR,82.0,2,Maths
+105,19,White American,106,DAVID OWEN,65.0,1,Maths
+106,21,European American,107,DAVID PFEIFER,45.0,1,Maths
+107,21,European American,108,DAVID SHINN,85.0,1,Maths
+108,19,White American,109,DAVID SULLIVAN,45.0,1,Maths
+109,21,White American,110,DAVID THOMPSON,85.0,2,Maths
+110,21,European American,111,DAVID ZWYER,65.0,1,Maths
+111,18,White American,112,DEBBIE TAM,85.0,1,Maths
+112,19,Hispanic,113,DEBORAH BORNE,88.0,1,Maths
+113,19,White American,114,DEBORAH JETER,45.0,1,Maths
+114,20,European American,115,DEBORAH LOGAN,95.0,2,Maths
+115,21,White American,116,DEBRA JOHNSON,88.0,1,Maths
+116,18,European American,117,DENIS JOYCE,75.0,1,Maths
+117,20,White American,118,DENIS OLEARY,53.0,1,Maths
+118,20,European American,119,DENISE BAILEY,82.0,1,Maths
+119,21,White American,120,DENISE NEWMAN,85.0,2,Maths
+120,18,European American,121,DENISE SCHMITT,91.0,1,Maths
+121,18,White American,122,DENNIS HERRERA,88.0,1,Maths
+122,21,White American,123,DENNIS MARTINEZ,85.0,1,Maths
+123,19,European American,124,DENNIS O'NEILL,45.0,1,Maths
+124,18,European American,125,DENNIS SUTTER,53.0,2,Maths
+125,20,White American,126,DEREK WING,95.0,1,Maths
+126,21,White American,127,DERIO DITO,45.0,1,Maths
+127,20,European American,128,DIANA GUEVARA,75.0,1,Maths
+128,21,White American,129,DOMINIC CELAYA,66.0,1,Maths
+129,18,European American,130,DONALD BRYANT,75.0,2,Maths
+130,18,Hispanic,131,DONALD FIELDS,66.0,1,Maths
+131,20,Hispanic,132,DONALD MARGOLIS,75.0,1,Maths
+132,18,European American,133,DONALDSON SHUMPERT,53.0,1,Maths
+133,18,White American,134,DONNA LEE,85.0,1,Maths
+134,18,Hispanic,135,DONNA MEIXNER,85.0,2,Maths
+135,21,European American,136,DONNIE HORNBUCKLE,65.0,1,Maths
+136,21,Hispanic,137,DOUGLAS MCEACHERN,65.0,1,Maths
+137,20,White American,138,DOUGLAS RIBA,91.0,1,Maths
+138,21,European American,139,DUSTIN NOVO,85.0,1,Maths
+139,21,White American,140,DWAYNE CURRY,45.0,2,Maths
+140,18,White American,141,EDGAR CALLEJAS,82.0,1,Maths
+141,20,Hispanic,142,EDGAR GONZALEZ,95.0,1,Maths
+142,18,Hispanic,143,EDMUND DEA,85.0,1,Maths
+143,18,White American,144,EDMUND VAIL,66.0,1,Maths
+144,21,White American,145,EDUARDO GONZALEZ,88.0,2,Maths
+145,20,Hispanic,146,EDWARD CAMPBELL,82.0,1,Maths
+146,18,European American,147,EDWARD CHEUNG,53.0,1,Maths
+147,19,Hispanic,148,EDWARD CHU,88.0,1,Maths
+148,18,White American,149,EDWARD DELCARLO,45.0,1,Maths
+149,21,White American,150,EDWARD DENNIS,65.0,2,Maths
+150,18,European American,151,EDWARD HARRINGTON,95.0,1,Maths
+151,18,White American,152,EDWARD REISKIN,31.0,1,Maths
+152,18,European American,153,EDWARD ROLAND,66.0,1,Maths
+153,19,White American,154,EDWIN LEE,45.0,1,Maths
+154,18,White American,155,EHRHARDT GROOTHOFF,53.0,2,Maths
+155,19,White American,156,ELAINE COLEMAN,45.0,1,Maths
+156,18,European American,157,ELISA RAMIREZ,53.0,1,Maths
+157,18,European American,158,ELIZABETH JOHNSON,91.0,1,Maths
+158,19,European American,159,ELLEN APOLINARIO,85.0,1,Maths
+159,18,European American,160,ELLEN LEVIN,53.0,2,Maths
+160,18,White American,161,ELLEN MOFFATT,88.0,1,Maths
+161,18,White American,162,ERIBERTO ISON,88.0,1,Maths
+162,18,Hispanic,163,ERIC CRANSTON,82.0,1,Maths
+163,19,White American,164,ERIKA HOO,85.0,1,Maths
+164,18,European American,165,ERNEST JOHNSON,45.0,2,Maths
+165,20,Hispanic,166,EUGENE GALEANO,82.0,1,Maths
+166,18,European American,167,EVETTE GEER-STEVENS,91.0,1,Maths
+167,19,White American,168,FE HORTINELA,65.0,1,Maths
+168,19,White American,169,FERDINAND CADELINA,65.0,1,Maths
+169,18,Hispanic,170,FERDINAND MENESES,75.0,2,Maths
+170,18,European American,171,FERNANDO DEALBA,88.0,1,Maths
+171,18,White American,172,FLAVIA BAYATI,65.0,1,Maths
+172,20,White American,173,FLOYD ROLLINS,53.0,1,Maths
+173,19,White American,174,FRANK CARDINALE,88.0,1,Maths
+174,19,Hispanic,175,FRANK HSIEH,45.0,2,Maths
+175,18,White American,176,FRANK KOSTA,95.0,1,Maths
+176,18,African American,177,FREDERICK BINKLEY,75.0,1,Maths
+177,20,Hispanic,178,FUAD SWEISS,53.0,1,Maths
+178,18,Hispanic,179,GARRET TOM,53.0,1,Maths
+179,18,European American,180,GARY AMELIO,95.0,2,Maths
+180,20,White American,181,GARY CONSTANTINE,95.0,1,Maths
+181,19,White American,182,GARY JIMENEZ,85.0,1,Maths
+182,19,African American,183,GAVIN ESTUPINIAN,88.0,1,Maths
+183,19,Hispanic,184,GEORGE FOURAS,88.0,1,Maths
+184,20,White American,185,GEORGE GARCIA,95.0,2,Maths
+185,20,European American,186,GEORGE GASCON,75.0,1,Maths
+186,20,Hispanic,187,GEORGE LYSENKO,75.0,1,Maths
+187,20,European American,188,GERALD DARCY,95.0,1,Maths
+188,20,European American,189,GERALD MANSUR JR,91.0,1,Maths
+189,18,White American,190,GERARDO PINTO,82.0,2,Maths
+190,19,White American,191,GHODSI DAVARY,85.0,1,Maths
+191,18,African American,192,GLEN KOJIMOTO,91.0,1,Maths
+192,19,European American,193,GLENN KIRCHER,85.0,1,Maths
+193,21,Hispanic,194,GLENN MAR,85.0,1,Maths
+194,20,African American,195,GLENN ORTIZ-SCHULDT,91.0,2,Maths
+195,18,European American,196,GLORIA GARCIA ORME,91.0,1,Maths
+196,21,White American,197,GRAD GREEN,85.0,1,Maths
+197,20,White American,198,GREGORY CACHARELIS,95.0,1,Maths
+198,21,European American,199,GREGORY CORRALES,88.0,1,Maths
+199,18,White American,200,GREGORY MAR,53.0,2,Maths
+200,18,Hispanic,201,GREGORY MCFARLAND,66.0,1,Maths
+201,20,White American,202,GREGORY STANGLAND,91.0,1,Maths
+202,19,White American,203,GREGORY SUHR,45.0,1,Maths
+203,19,Hispanic,204,GUY GOODWIN,85.0,1,Maths
+204,18,European American,205,HAGOP HAJIAN,82.0,2,Maths
+205,19,Hispanic,206,HANS VIGIL,66.0,1,Maths
+206,20,European American,207,HARLAN KELLY-JR,75.0,1,Maths
+207,18,White American,208,HAROLD BYRD,75.0,1,Maths
+208,18,White American,209,HARRY PINKARD,95.0,1,Maths
+209,19,White American,210,HARVEY ELWIN,66.0,2,Maths
+210,21,African American,211,HENRY LARKIN,66.0,1,Maths
+211,19,White American,212,HERALIO SERRANO,88.0,1,Maths
+212,19,Hispanic,213,HERBERT CARNEY,88.0,1,Maths
+213,18,White American,214,HERBERT HENLEY,75.0,1,Maths
+214,19,White American,215,IRENE SUNG,66.0,2,Maths
+215,19,European American,216,IVAR SATERO,88.0,1,Maths
+216,20,Hispanic,217,JACK CHOW,82.0,1,Maths
+217,18,White American,218,JACKSON WONG,82.0,1,Maths
+218,19,White American,219,JALAL AINEB,45.0,1,Maths
+219,18,White American,220,JAMES BLAKE,95.0,2,Maths
+220,19,Hispanic,221,JAMES BOSCH,66.0,1,Maths
+221,21,European American,222,JAMES CALONICO,85.0,1,Maths
+222,18,White American,223,JAMES DEIGNAN,82.0,1,Maths
+223,18,European American,224,JAMES DUDLEY,91.0,1,Maths
+224,21,Hispanic,225,JAMES EMERY,85.0,2,Maths
+225,20,White American,226,JAMES FAZACKERLEY,95.0,1,Maths
+226,20,Hispanic,227,JAMES FLORES,53.0,1,Maths
+227,20,European American,228,JAMES HARRIGAN,91.0,1,Maths
+228,19,White American,229,JAMES MILLER,45.0,1,Maths
+229,18,European American,230,JAMES SPILLANE,65.0,2,Maths
+230,20,White American,231,JAMES VANNUCCHI,75.0,1,Maths
+231,18,White American,232,JANET HINES,91.0,1,Maths
+232,20,European American,233,JASON PAW,53.0,1,Maths
+233,18,Hispanic,234,JAY HUISH,53.0,1,Maths
+234,18,White American,235,JAY KLOO,53.0,2,Maths
+235,18,Hispanic,236,JEFF COLUMBINI,95.0,1,Maths
+236,20,White American,237,JEFF IWASAKI,75.0,1,Maths
+237,20,Hispanic,238,JEFFREY ADACHI,95.0,1,Maths
+238,18,White American,239,JEFFREY BARDEN,82.0,1,Maths
+239,18,White American,240,JEFFREY MYERS,53.0,2,Maths
+240,18,European American,241,JENNIFER DEBERRY,95.0,1,Maths
+241,20,European American,242,JENNIFER MATZ,75.0,1,Maths
+242,18,Hispanic,243,JERRY COLEMAN,66.0,1,Maths
+243,20,White American,244,JESSE SMITH,91.0,1,Maths
+244,20,European American,245,JESUS PENA,91.0,2,Maths
+245,18,Hispanic,246,JILL LECOUNT,85.0,1,Maths
+246,20,African American,247,JIM GIANG,75.0,1,Maths
+247,18,White American,248,JIM HALL III,66.0,1,Maths
+248,20,White American,249,JIMMIE LEW,75.0,1,Maths
+249,19,European American,250,JOANNE HAYES-WHITE,88.0,2,Maths
+250,18,African American,251,JOANNE HOEPER,88.0,1,Maths
+251,20,European American,252,JOHN BARKER,82.0,1,Maths
+252,18,European American,253,JOHN BRAGAGNOLO,65.0,1,Maths
+253,19,African American,254,JOHN BROWN,45.0,1,Maths
+254,18,European American,255,JOHN BUCHANAN JR,85.0,2,Maths
+255,19,White American,256,JOHN CAVANAUGH,65.0,1,Maths
+256,20,White American,257,JOHN CREMEN,75.0,1,Maths
+257,18,European American,258,JOHN EHRLICH,75.0,1,Maths
+258,20,White American,259,JOHN FEENEY,53.0,1,Maths
+259,18,White American,260,JOHN FLORES,45.0,2,Maths
+260,18,White American,261,JOHN GARRITY,91.0,1,Maths
+261,18,White American,262,JOHN GOLDBERG,95.0,1,Maths
+262,18,Hispanic,263,JOHN HALEY JR,95.0,1,Maths
+263,20,White American,264,JOHN HANLEY,82.0,1,Maths
+264,18,White American,265,JOHN HART,53.0,2,Maths
+265,21,European American,266,JOHN HICKEY,66.0,1,Maths
+266,19,White American,267,JOHN KOSTA,45.0,1,Maths
+267,20,White American,268,JOHN LOFTUS,82.0,1,Maths
+268,19,European American,269,JOHN MARTIN,65.0,1,Maths
+269,19,Hispanic,270,JOHN MURPHY,65.0,2,Maths
+270,21,Hispanic,271,JOHN MURPHY,88.0,1,Maths
+271,20,White American,272,JOHN NESTOR,82.0,1,Maths
+272,18,Hispanic,273,JOHN RAHAIM,95.0,1,Maths
+273,20,White American,274,JOHN ROCCO,53.0,1,Maths
+274,18,White American,275,JOHN SANFORD JR,91.0,2,Maths
+275,19,White American,276,JOHN STANFIELD,65.0,1,Maths
+276,19,African American,277,JOHN TURSI,65.0,1,Maths
+277,18,White American,278,JOHN VAN KOLL,91.0,1,Maths
+278,18,White American,279,JOHNSON YOU,66.0,1,Maths
+279,19,European American,280,JON WALTON,65.0,2,Maths
+280,19,European American,281,JONATHAN BAXTER,45.0,1,Maths
+281,20,White American,282,JONES WONG,91.0,1,Maths
+282,21,White American,283,JOSE CASTILLO,45.0,1,Maths
+283,20,Hispanic,284,JOSE VELO,53.0,1,Maths
+284,18,Hispanic,285,JOSEPH CUFF,75.0,2,Maths
+285,18,White American,286,JOSEPH DRISCOLL,53.0,1,Maths
+286,18,White American,287,JOSEPH FISCHER-III,95.0,1,Maths
+287,18,White American,288,JOSEPH FONG,95.0,1,Maths
+288,19,European American,289,JOSEPH MAYERS,85.0,1,Maths
+289,20,White American,290,JOSEPH WOODS,91.0,2,Maths
+290,19,European American,291,JOSEPHINE RAPADAS,66.0,1,Maths
+291,20,European American,292,JOSHUA BAMBERGER,95.0,1,Maths
+292,19,European American,293,JOSHUA KUMLI,88.0,1,Maths
+293,19,White American,294,JUDY MELINEK,85.0,1,Maths
+294,18,European American,295,JULIA M C FRIEDLANDER,66.0,2,Maths
+295,20,European American,296,JULIE LABONTE,95.0,1,Maths
+296,18,African American,297,JULIE VAN NOSTERN,91.0,1,Maths
+297,20,European American,298,JULIET ELLIS,95.0,1,Maths
+298,18,White American,299,JULIO ESCOBAR,85.0,1,Maths
+299,18,Hispanic,300,JUNE CRAVET,91.0,2,Maths
+300,19,White American,301,KANDACE BENDER,64.0,1,Maths
+301,18,White American,302,KAREN ROYE,53.0,1,Maths
+302,19,European American,303,KARL JURGENSON,85.0,1,Maths
+303,21,Hispanic,304,KATE HERRMAN STACY,66.0,1,Maths
+304,20,African American,305,KATHLEEN MAXWELL,53.0,2,Maths
+305,20,Hispanic,306,KATHRYN BALLOU,82.0,1,Maths
+306,18,European American,307,KATHRYN FOWLER,75.0,1,Maths
+307,18,White American,308,KATHRYN HOW,75.0,1,Maths
+308,19,European American,309,KEITH SANFORD,64.0,1,Maths
+309,19,European American,310,KEN YEE,88.0,2,Maths
+310,20,Hispanic,311,KENNETH CORDERO,91.0,1,Maths
+311,18,White American,312,KENNETH SMITH,75.0,1,Maths
+312,21,European American,313,KEVIN BARRY,66.0,1,Maths
+313,18,White American,314,KEVIN BURKE,82.0,1,Maths
+314,21,Hispanic,315,KEVIN CASHMAN,45.0,2,Maths
+315,19,Hispanic,316,KEVIN JONES,66.0,1,Maths
+316,19,Hispanic,317,KEVIN KUHN,66.0,1,Maths
+317,20,White American,318,KEVIN LABANOWSKI,91.0,1,Maths
+318,19,White American,319,KEVIN SMITH,66.0,1,Maths
+319,18,White American,320,KEVIN TAYLOR,75.0,2,Maths
+320,20,White American,321,KHAIRUL ALI,91.0,1,Maths
+321,18,Hispanic,322,KHOA TRINH,45.0,1,Maths
+322,18,White American,323,KIMIKO BURTON,75.0,1,Maths
+323,20,European American,324,KIRK RICHARDSON,75.0,1,Maths
+324,21,European American,325,KIRSTEN BARASH,65.0,2,Maths
+325,19,White American,326,L MILITELLO,66.0,1,Maths
+326,19,White American,327,LAN LEE,85.0,1,Maths
+327,21,White American,328,LARRY MITCHELL,65.0,1,Maths
+328,20,White American,329,LAUIFI SEUMAALA,95.0,1,Maths
+329,18,European American,330,LAURENCE RAMLAN,95.0,2,Maths
+330,18,Hispanic,331,LAWRENCE FREED,95.0,1,Maths
+331,20,White American,332,LAWRENCE LEE,53.0,1,Maths
+332,19,Hispanic,333,LAWRENCE NICHOLLS,66.0,1,Maths
+333,18,Hispanic,334,LENETTE THOMPSON,66.0,1,Maths
+334,20,European American,335,LENORA JACOBS,53.0,2,Maths
+335,20,Hispanic,336,LEON KUO,95.0,1,Maths
+336,20,White American,337,LEON WHITE,91.0,1,Maths
+337,19,Hispanic,338,LEONARD BROBERG,65.0,1,Maths
+338,18,White American,339,LEONARDO FERMIN,88.0,1,Maths
+339,21,White American,340,LESLIE DUBBIN,88.0,2,Maths
+340,19,European American,341,LINDA ROSS,65.0,1,Maths
+341,19,African American,342,LISA GOLDEN,66.0,1,Maths
+342,21,White American,343,LISA HOFFMANN,66.0,1,Maths
+343,18,White American,344,LISETTE ADAMS,45.0,1,Maths
+344,21,European American,345,LORI BORGHI,88.0,2,Maths
+345,20,White American,346,LORRIE KALOS,95.0,1,Maths
+346,19,European American,347,LOUIS CASSANEGO,66.0,1,Maths
+347,18,Hispanic,348,LUIS HERRERA,91.0,1,Maths
+348,19,White American,349,LUIS IBARRA-RIVERA,85.0,1,Maths
+349,19,White American,350,LYN TOMIOKA,65.0,2,Maths
+350,18,White American,351,MADONNA VALENCIA,75.0,1,Maths
+351,18,European American,352,MAGALY SAADE,31.0,1,Maths
+352,18,White American,353,MAMI SUZUKI-VIDALON,65.0,1,Maths
+353,18,Hispanic,354,MANUEL PEGUEROS,95.0,1,Maths
+354,20,White American,355,MARGARET CALLAHAN,82.0,2,Maths
+355,18,White American,356,MARGARET HANNAFORD,82.0,1,Maths
+356,18,Hispanic,357,MARGARET RYKOWSKI,65.0,1,Maths
+357,21,White American,358,MARIA BEE,88.0,1,Maths
+358,18,White American,359,MARISA MORET,75.0,1,Maths
+359,21,White American,360,MARK CASTAGNOLA,45.0,2,Maths
+360,18,Hispanic,361,MARK GAMBLE,45.0,1,Maths
+361,20,African American,362,MARK GONZALES,75.0,1,Maths
+362,19,European American,363,MARK HERNANDEZ,88.0,1,Maths
+363,19,White American,364,MARK JOHNSON,85.0,1,Maths
+364,19,White American,365,MARK KEARNEY,66.0,2,Maths
+365,18,European American,366,MARK SENORES,66.0,1,Maths
+366,20,Hispanic,367,MARK SMITH,75.0,1,Maths
+367,20,European American,368,MARK SOLOMON,75.0,1,Maths
+368,19,European American,369,MARTIEN VERHAEG,45.0,1,Maths
+369,20,White American,370,MARTIN BELTRAN,91.0,2,Maths
+370,18,European American,371,MARTIN GRAN,91.0,1,Maths
+371,18,Hispanic,372,MARTIN HALLORAN,82.0,1,Maths
+372,20,White American,373,MARTIN LALOR JR,75.0,1,Maths
+373,20,Hispanic,374,MARTY ROSS,91.0,1,Maths
+374,19,European American,375,MARY TSE,88.0,2,Maths
+375,21,White American,376,MASAE KAWAMURA,88.0,1,Maths
+376,19,White American,377,MATTHEW CANNON,66.0,1,Maths
+377,18,White American,378,MATTHEW MCNAUGHTON,95.0,1,Maths
+378,18,White American,379,MATTHEW ROTHSCHILD,45.0,1,Maths
+379,20,White American,380,MELANY BRANDON,53.0,2,Maths
+380,20,European American,381,MELISSA LERMA,91.0,1,Maths
+381,18,European American,382,MERCEDES GERMAN,75.0,1,Maths
+382,21,Hispanic,383,MICHAEL AHERN,66.0,1,Maths
+383,19,White American,384,MICHAEL BELLO,66.0,1,Maths
+384,20,White American,385,MICHAEL BIEL,91.0,2,Maths
+385,18,White American,386,MICHAEL BROWNE,85.0,1,Maths
+386,20,European American,387,MICHAEL BRYANT,82.0,1,Maths
+387,19,White American,388,MICHAEL CARLIN,66.0,1,Maths
+388,18,White American,389,MICHAEL CASTAGNOLA,75.0,1,Maths
+389,18,European American,390,MICHAEL COLEMAN,91.0,2,Maths
+390,19,White American,391,MICHAEL CONNOLLY,45.0,1,Maths
+391,20,White American,392,MICHAEL DALY,0.0,1,Maths
+392,20,White American,393,MICHAEL DELANE,91.0,1,Maths
+393,18,White American,394,MICHAEL DRENNAN,75.0,1,Maths
+394,20,European American,395,MICHAEL DUDOROFF,82.0,2,Maths
+395,20,European American,396,MICHAEL ELLIS,95.0,1,Maths
+396,19,White American,397,MICHAEL GONZALES,88.0,1,Maths
+397,19,White American,398,MICHAEL HENNESSEY,65.0,1,Maths
+398,21,Hispanic,399,MICHAEL KEARNEY,85.0,1,Maths
+399,18,White American,400,MICHAEL MORRIS,91.0,2,Maths
+400,20,Hispanic,401,MICHAEL MOYNIHAN,91.0,1,Maths
+401,20,Hispanic,402,MICHAEL PHILPOTT,53.0,1,Maths
+402,20,White American,403,MICHAEL QUAN,95.0,1,Maths
+403,18,African American,404,MICHAEL ROLOVICH,95.0,1,Maths
+404,18,Hispanic,405,MICHAEL SIMMONS,53.0,2,Maths
+405,19,White American,406,MICHAEL SMITH,45.0,1,Maths
+406,18,White American,407,MICHAEL THOMPSON,75.0,1,Maths
+407,18,White American,408,MICHAEL THOMPSON,65.0,1,Maths
+408,19,European American,409,MICHAEL WALSH,45.0,1,Maths
+409,18,European American,410,MICHAEL WHOOLEY,82.0,2,Maths
+410,18,Hispanic,411,MIKAIL ALI,82.0,1,Maths
+411,19,European American,412,MIKE BREILING,66.0,1,Maths
+412,21,White American,413,MILTON ESTES,65.0,1,Maths
+413,19,White American,414,MIRIAM DAMON,66.0,1,Maths
+414,18,White American,415,MITCHELL LEE,95.0,2,Maths
+415,21,White American,416,MIVIC HIROSE,45.0,1,Maths
+416,19,European American,417,MOHAMMED NURU,65.0,1,Maths
+417,19,European American,418,MONICA FIELDS,88.0,1,Maths
+418,19,Hispanic,419,MONIQUE MOYER,65.0,1,Maths
+419,18,White American,420,MONIQUE ZMUDA,85.0,2,Maths
+420,18,Hispanic,421,MORGAN PETITI,75.0,1,Maths
+421,20,African American,422,MYO CHANG,82.0,1,Maths
+422,20,White American,423,NANCY LEW,82.0,1,Maths
+423,21,White American,424,NANCY PARKER,66.0,1,Maths
+424,19,European American,425,NATHAN HARDY,85.0,2,Maths
+425,18,White American,426,NATHANIEL FORD,75.0,1,Maths
+426,20,White American,427,NEIL SWENDSEN,91.0,1,Maths
+427,19,Hispanic,428,NELA PONFERRADA,65.0,1,Maths
+428,20,White American,429,NELSON ACETO,82.0,1,Maths
+429,18,European American,430,NEREE DASTOUS,45.0,2,Maths
+430,20,European American,431,NICHOLAS COLANGELO,95.0,1,Maths
+431,18,White American,432,NICOL JURATOVAC,88.0,1,Maths
+432,18,White American,433,NICOLETTE DIVECCHIO,53.0,1,Maths
+433,18,White American,434,NIKOLAS LEMOS,82.0,1,Maths
+434,19,White American,435,NOEL MORONEY,66.0,2,Maths
+435,20,White American,436,NOREEN AMBROSE,91.0,1,Maths
+436,18,White American,437,OLLIE BANKS,45.0,1,Maths
+437,18,European American,438,OSCAR CABRERA,53.0,1,Maths
+438,19,White American,439,OWEN CLEMENTS,85.0,1,Maths
+439,18,White American,440,PABLO SIGUENZA,91.0,2,Maths
+440,18,European American,441,PATRIC STEELE,53.0,1,Maths
+441,19,Hispanic,442,PATRICIA CARR,88.0,1,Maths
+442,18,European American,443,PATRICIA JACKSON,85.0,1,Maths
+443,19,Hispanic,444,PATRICIA O'CONNER,45.0,1,Maths
+444,18,White American,445,PATRICK GARDNER,53.0,2,Maths
+445,20,Hispanic,446,PATRICK MULLANEY,75.0,1,Maths
+446,19,African American,447,PAUL CHIGNELL,85.0,1,Maths
+447,19,White American,448,PAUL HENDERSON,66.0,1,Maths
+448,20,White American,449,PAUL LEE,82.0,1,Maths
+449,19,Hispanic,450,PAUL URQUIAGA,85.0,2,Maths
+450,20,White American,451,PAULINE MARX,82.0,1,Maths
+451,18,European American,452,PERRY LEONG,82.0,1,Maths
+452,18,Hispanic,453,PETE FAY JR,95.0,1,Maths
+453,19,Hispanic,454,PETER THOSHINSKY,85.0,1,Maths
+454,20,White American,455,PHILIP GINSBURG,75.0,2,Maths
+455,20,Hispanic,456,PHILIP PERA,91.0,1,Maths
+456,18,White American,457,PHILIP STEVENS,95.0,1,Maths
+457,20,European American,458,PIERRE FRANCOIS,95.0,1,Maths
+458,18,European American,459,PIERRE MARTINEZ,53.0,1,Maths
+459,18,African American,460,RAEMONA WILLIAMS,85.0,2,Maths
+460,20,White American,461,RAJIV BHATIA,95.0,1,Maths
+461,19,European American,462,RANDY LY,65.0,1,Maths
+462,20,White American,463,RANDY MANNING,91.0,1,Maths
+463,20,Hispanic,464,RASMI CHAN,75.0,1,Maths
+464,21,White American,465,RAUL FRANCISCO,45.0,2,Maths
+465,20,Hispanic,466,RAY CRAWFORD,53.0,1,Maths
+466,21,European American,467,RAYMOND CHAVEZ,88.0,1,Maths
+467,18,White American,468,RAYMOND GUZMAN,66.0,1,Maths
+468,18,Hispanic,469,RAYMOND KOENIG,53.0,1,Maths
+469,18,White American,470,REGINA GOMEZ,82.0,2,Maths
+470,18,White American,471,RENEE MARQUARDT,82.0,1,Maths
+471,20,Hispanic,472,REX HALE,53.0,1,Maths
+472,21,African American,473,RICHARD BUSALACCHI,85.0,1,Maths
+473,21,Hispanic,474,RICHARD CORRIEA,45.0,1,Maths
+474,20,White American,475,RICHARD CURRIE,91.0,2,Maths
+475,20,White American,476,RICHARD ELLIOTT,82.0,1,Maths
+476,19,White American,477,RICHARD PARRY,45.0,1,Maths
+477,18,White American,478,RICHARD UNTALAN,75.0,1,Maths
+478,18,White American,479,RICHARD VAN KOLL,95.0,1,Maths
+479,21,White American,480,RICHARD ZERCHER,88.0,2,Maths
+480,19,White American,481,RICKY HUI,88.0,1,Maths
+481,18,Hispanic,482,ROBERT BONNET,85.0,1,Maths
+482,20,European American,483,ROBERT BRYAN,82.0,1,Maths
+483,19,White American,484,ROBERT CHIN,66.0,1,Maths
+484,18,Hispanic,485,ROBERT COLEMAN,88.0,2,Maths
+485,20,White American,486,ROBERT GALLOT,91.0,1,Maths
+486,20,White American,487,ROBERT GUILLERMO,95.0,1,Maths
+487,18,White American,488,ROBERT KAPROSCH,75.0,1,Maths
+488,18,Hispanic,489,ROBERT LOPEZ,75.0,1,Maths
+489,20,European American,490,ROBERT MAERZ,53.0,2,Maths
+490,18,European American,491,ROBERT MUHAMMAD,88.0,1,Maths
+491,20,European American,492,ROBERT POSTEL,82.0,1,Maths
+492,19,White American,493,ROBERT SERRANO,88.0,1,Maths
+493,20,White American,494,ROBERT SHAW,91.0,1,Maths
+494,18,European American,495,ROBERT STYLES,75.0,2,Maths
+495,18,European American,496,ROBERT TAI,75.0,1,Maths
+496,18,Hispanic,497,ROBERT VELARDE,91.0,1,Maths
+497,19,White American,498,ROBERT WINSLOW,85.0,1,Maths
+498,18,European American,499,ROLAND PICKENS,88.0,1,Maths
+499,18,White American,500,RONALD PRUYN,53.0,2,Maths
+500,20,White American,501,ROSE QUINONES,53.0,1,Maths
+501,18,European American,502,ROSELYN JEQUINTO,65.0,1,Maths
+502,18,European American,503,ROSEMARY LEE,91.0,1,Maths
+503,18,Hispanic,504,ROWENA PATEL,91.0,1,Maths
+504,19,Hispanic,505,RUBY MARTIN,45.0,2,Maths
+505,21,European American,506,RUDOLPH ERLER,66.0,1,Maths
+506,21,White American,507,RUDY CASTELLANOS,66.0,1,Maths
+507,18,White American,508,RYAN CREAN,53.0,1,Maths
+508,19,White American,509,RYAN KENNEDY,65.0,1,Maths
+509,18,White American,510,SAHIR PUTRUS,53.0,2,Maths
+510,18,White American,511,SAM YUEN,91.0,1,Maths
+511,20,European American,512,SAMSON LAI,82.0,1,Maths
+512,19,White American,513,SAMUEL NIETO,45.0,1,Maths
+513,19,White American,514,SAMUEL ROMERO,65.0,1,Maths
+514,18,White American,515,SANDRA HUANG,65.0,2,Maths
+515,18,European American,516,SANDRA TONG,53.0,1,Maths
+516,18,White American,517,SARAH CARY,82.0,1,Maths
+517,19,African American,518,SCOTT SCHOLZEN,88.0,1,Maths
+518,20,White American,519,SEAN BONETTI,95.0,1,Maths
+519,19,Hispanic,520,SEBASTIAN WONG,64.0,2,Maths
+520,20,European American,521,SHANNON SAKOWSKI,82.0,1,Maths
+521,19,European American,522,SHARON FERRIGNO,45.0,1,Maths
+522,18,White American,523,SHARON MCCOLE WICHER,53.0,1,Maths
+523,21,Hispanic,524,SHARON WOO,45.0,1,Maths
+524,19,White American,525,SHELLEY MITCHELL,85.0,2,Maths
+525,18,Hispanic,526,SIU-KWAN CHOW,91.0,1,Maths
+526,20,Hispanic,527,SOFIA MATHEWS,75.0,1,Maths
+527,18,White American,528,SONALI BOSE,88.0,1,Maths
+528,19,Hispanic,529,STEPHEN TACCHINI,45.0,1,Maths
+529,19,White American,530,STEPHEN TITTEL,88.0,2,Maths
+530,18,White American,531,STEVEN MANNINA,45.0,1,Maths
+531,21,European American,532,STEVEN RITCHIE,65.0,1,Maths
+532,21,European American,533,STEVEN WILLIAMS,45.0,1,Maths
+533,21,White American,534,STEVEN WOZNIAK,88.0,1,Maths
+534,20,White American,535,SURINDERJEET BAJWA,95.0,2,Maths
+535,20,European American,536,SUSAN BUCHBINDER,95.0,1,Maths
+536,18,Hispanic,537,SUSAN CURRIN,82.0,1,Maths
+537,19,European American,538,SUSAN FERNYAK,65.0,1,Maths
+538,18,Hispanic,539,SUSAN GARRETT,91.0,1,Maths
+539,18,European American,540,SUSAN ILNICKI,65.0,2,Maths
+540,21,White American,541,TANGERINE BRIGHAM,66.0,1,Maths
+541,18,European American,542,TED YAMASAKI,95.0,1,Maths
+542,18,African American,543,TERENCE OSULLIVAN,82.0,1,Maths
+543,20,European American,544,TERESA BARRETT,75.0,1,Maths
+544,20,European American,545,THERESA DENTONI,82.0,2,Maths
+545,19,White American,546,THERESA LEE,85.0,1,Maths
+546,19,White American,547,THERESA MUELLER,65.0,1,Maths
+547,18,White American,548,THERESE STEWART,88.0,1,Maths
+548,19,White American,549,THOMAS ABBOTT,85.0,1,Maths
+549,20,African American,550,THOMAS ALDANA,82.0,2,Maths
+550,18,White American,551,THOMAS BIBER,82.0,1,Maths
+551,18,White American,552,THOMAS BUSBY,91.0,1,Maths
+552,19,White American,553,THOMAS CLEARY,85.0,1,Maths
+553,21,Hispanic,554,THOMAS CUNNANE,65.0,1,Maths
+554,19,White American,555,THOMAS HARVEY,66.0,2,Maths
+555,18,White American,556,THOMAS KOHMANN,82.0,1,Maths
+556,19,European American,557,THOMAS MURPHY,66.0,1,Maths
+557,19,Hispanic,558,THOMAS REY,65.0,1,Maths
+558,18,European American,559,THOMAS SHAWYER,91.0,1,Maths
+559,20,White American,560,THOMAS SIRAGUSA,95.0,2,Maths
+560,18,African American,561,TIM AREJA,66.0,1,Maths
+561,20,White American,562,TIMOTHY SINCLAIR,53.0,1,Maths
+562,19,White American,563,TIMOTHY SULLIVAN,65.0,1,Maths
+563,18,European American,564,TODD RYDSTROM,45.0,1,Maths
+564,21,White American,565,TOMAS ARAGON,0.0,2,Maths
+565,18,White American,566,TONEY CHAPLIN,65.0,1,Maths
+566,21,European American,567,TRENT RHORER,66.0,1,Maths
+567,18,African American,568,TROY JOLLIFF,53.0,1,Maths
+568,20,White American,569,TROY WILLIAMS,95.0,1,Maths
+569,19,Hispanic,570,TRYG MCCOY,65.0,2,Maths
+570,19,European American,571,TUAMELIE MOALA,45.0,1,Maths
+571,20,Hispanic,572,TYRONE PRUITT,82.0,1,Maths
+572,18,European American,573,TYRONNE JULIAN,53.0,1,Maths
+573,18,European American,574,VALERIE AGARD,85.0,1,Maths
+574,20,European American,575,VALERIE INOUYE,75.0,2,Maths
+575,21,White American,576,VAN LY,85.0,1,Maths
+576,18,White American,577,VENUS AZAR,75.0,1,Maths
+577,19,White American,578,VERNONICA JONES,85.0,1,Maths
+578,18,White American,579,VICKI CLAYTON,82.0,1,Maths
+579,21,White American,580,VICTOR WYRSCH,65.0,2,Maths
+580,18,African American,581,VINCENT DAVIS,95.0,1,Maths
+581,20,White American,582,VINCENT PAMPANIN,91.0,1,Maths
+582,21,Hispanic,583,VIVIAN DAY,45.0,1,Maths
+583,18,Hispanic,584,WAYNE SNODGRASS,95.0,1,Maths
+584,18,European American,585,WENDY STILL,91.0,2,Maths
+585,20,White American,586,WHITNEY YEE,53.0,1,Maths
+586,19,White American,587,WILLIAM MCFARLAND,85.0,1,Maths
+587,18,Hispanic,588,WILLIAM MCFARLAND,45.0,1,Maths
+588,19,European American,589,WILLIAM MULKEEN,88.0,1,Maths
+589,20,Hispanic,590,WILLIAM RADER,82.0,2,Maths
+590,19,White American,591,WILLIAM ROUALDES,65.0,1,Maths
+591,19,Hispanic,592,WILLIAM SCOTT,88.0,1,Maths
+592,20,Hispanic,593,WILLIAM SIFFERMANN,91.0,1,Maths
+593,19,European American,594,WING CHAN,88.0,1,Maths
+594,19,White American,595,WING NG,45.0,2,Maths
+595,18,White American,596,YIFANG QIAN,75.0,1,Maths
+596,20,White American,597,ZACHARY PUMPHREY,53.0,1,Maths
+597,20,Hispanic,598,ZEBA IMAN NAZEERI-SIMMONS,75.0,1,Maths
+598,19,Hispanic,599,ZHI JIAR ZHUANG,88.0,1,Maths
+0,18,White American,1,AI-KYUNG CHUNG,84.0,1,Physics
+1,19,European American,2,ALAN HARVEY,81.0,1,Physics
+2,19,European American,3,ALAN REYNAUD,41.0,1,Physics
+3,18,White American,4,ALBERT CENDANA,78.0,1,Physics
+4,18,White American,5,ALBERT HOLT JR,78.0,2,Physics
+5,20,White American,6,ALBERT PARDINI,91.0,1,Physics
+6,18,White American,7,ALBERT YU,91.0,1,Physics
+7,19,White American,8,ALBERTO PEDRUCO,61.0,1,Physics
+8,18,Hispanic,9,ALEC BALMY,84.0,1,Physics
+9,19,Hispanic,10,ALEETA VAN RUNKLE,84.0,2,Physics
+10,20,White American,11,ALEX TSE,49.0,1,Physics
+11,20,White American,12,ALEXANDER CHEN,49.0,1,Physics
+12,19,White American,13,ALEXANDER KWAN,62.0,1,Physics
+13,18,White American,14,ALEXIS GOLDNER,84.0,1,Physics
+14,21,White American,15,ALLEN TURPIN,84.0,2,Physics
+15,20,White American,16,ALSON LEE,78.0,1,Physics
+16,18,White American,17,ALVIN LAU,0.0,1,Physics
+17,18,European American,18,AMEN CHOW,91.0,1,Physics
+18,18,Hispanic,19,AMPARO RODRIGUEZ,87.0,1,Physics
+19,18,White American,20,AMY BROWN,62.0,2,Physics
+20,18,Hispanic,21,AMY HART,78.0,1,Physics
+21,18,European American,22,ANA SAMPERA,62.0,1,Physics
+22,18,White American,23,ANDRE ANDREWS SR,71.0,1,Physics
+23,19,Hispanic,24,ANDRE WILLIAMS,61.0,1,Physics
+24,20,European American,25,ANDREW LOGAN,87.0,2,Physics
+25,18,White American,26,ANDREW SAITZ,87.0,1,Physics
+26,20,Hispanic,27,ANDY ZANOFF,49.0,1,Physics
+27,20,European American,28,ANGELA PLATZER,87.0,1,Physics
+28,21,Hispanic,29,ANN MANNIX,84.0,1,Physics
+29,19,White American,30,ANNA BROWN,81.0,2,Physics
+30,20,White American,31,ANNE KRONENBERG,71.0,1,Physics
+31,21,European American,32,ANNETTE HOBRUCKER-PFEIFER,62.0,1,Physics
+32,19,European American,33,ANTHONY DUMONT,41.0,1,Physics
+33,18,European American,34,ANTHONY ROBINSON,94.0,1,Physics
+34,20,Hispanic,35,ANTONIO FLORES,49.0,2,Physics
+35,19,White American,36,ANTONIO PARRA,61.0,1,Physics
+36,18,White American,37,ANTONIO SANTIAGO,49.0,1,Physics
+37,20,White American,38,ARNIE LEE,71.0,1,Physics
+38,18,White American,39,ARNOLD CHOY,41.0,1,Physics
+39,19,White American,40,ARTHUR BORGES,62.0,2,Physics
+40,20,European American,41,ARTHUR KENNEY,71.0,1,Physics
+41,20,African American,42,ARTHUR STELLINI,91.0,1,Physics
+42,21,White American,43,ATTICA BOWDEN,61.0,1,Physics
+43,18,European American,44,BARBARA GARCIA,81.0,1,Physics
+44,20,European American,45,BARBARA HALE,78.0,2,Physics
+45,21,African American,46,BARBARA SCHULTHEIS,61.0,1,Physics
+46,21,White American,47,BARRY BLOOM,81.0,1,Physics
+47,18,Hispanic,48,BENJAMIN ROSENFIELD,78.0,1,Physics
+48,18,Hispanic,49,BERGLIOTH MATHEWS,61.0,1,Physics
+49,19,White American,50,BERT REYES,62.0,2,Physics
+50,18,European American,51,BOND YEE,78.0,1,Physics
+51,19,White American,52,BONNIE TAYLOR,84.0,1,Physics
+52,19,African American,53,BRADEN WOODS,41.0,1,Physics
+53,20,White American,54,BRENDAN MCGORRIN,91.0,1,Physics
+54,21,White American,55,BRENDAN WARD,84.0,2,Physics
+55,18,Hispanic,56,BRIAN DELAHUNTY,87.0,1,Physics
+56,20,European American,57,BRIAN MURPHY,49.0,1,Physics
+57,20,White American,58,BRIAN PHILPOTT,71.0,1,Physics
+58,20,White American,59,BRODERICK TOPPS,71.0,1,Physics
+59,18,Hispanic,60,BRONWYN GUNDOGDU,91.0,2,Physics
+60,19,White American,61,BROOK MANCINELLI,84.0,1,Physics
+61,18,African American,62,BRYAN MAR,49.0,1,Physics
+62,20,White American,63,BRYAN RUBENSTEIN,78.0,1,Physics
+63,18,White American,64,BURK DELVENTHAL,78.0,1,Physics
+64,21,Hispanic,65,C PETRUZZELLA,81.0,2,Physics
+65,21,White American,66,CANTREZ TRIPLETT,0.0,1,Physics
+66,20,Hispanic,67,CARL FABBRI,71.0,1,Physics
+67,21,Hispanic,68,CARL JEPSEN,62.0,1,Physics
+68,19,European American,69,CARLOS GUTIERREZ,41.0,1,Physics
+69,20,White American,70,CATHERINE JAMES,71.0,2,Physics
+70,20,White American,71,CHAD LAW,49.0,1,Physics
+71,21,White American,72,CHARLES CRANE,61.0,1,Physics
+72,20,White American,73,CHARLES SCOTT,49.0,1,Physics
+73,19,European American,74,CHARLES STINSON,81.0,1,Physics
+74,18,Hispanic,75,CHARLIE ORKES,78.0,2,Physics
+75,20,Hispanic,76,CHRIS VEIN,91.0,1,Physics
+76,19,White American,77,CHRISTIANE HAYASHI,62.0,1,Physics
+77,20,White American,78,CHRISTINE WINKLER,49.0,1,Physics
+78,18,White American,79,CHRISTOPHER CHONG,61.0,1,Physics
+79,19,European American,80,CHRISTOPHER HAZEN,81.0,2,Physics
+80,19,European American,81,CHUTEH KOTAKE,84.0,1,Physics
+81,18,White American,82,CLEMENTINO AVILA II,91.0,1,Physics
+82,20,European American,83,CLYDE CHRISTOBAL,49.0,1,Physics
+83,19,Hispanic,84,COLLEEN RILEY,41.0,1,Physics
+84,21,White American,85,CRISTINA REYES,41.0,2,Physics
+85,18,White American,86,CROCE CASCIATO,81.0,1,Physics
+86,19,European American,87,CURTIS LUM,90.0,1,Physics
+87,21,European American,88,DALE CARNES,81.0,1,Physics
+88,18,White American,89,DAMON HART,41.0,1,Physics
+89,21,African American,90,DANIEL ARMENTA,41.0,2,Physics
+90,19,Hispanic,91,DANIEL COX,0.0,1,Physics
+91,19,White American,92,DANIEL CUNNINGHAM,84.0,1,Physics
+92,19,White American,93,DANIEL DEDET,81.0,1,Physics
+93,18,White American,94,DANIEL MAHONEY,87.0,1,Physics
+94,19,African American,95,DANIEL MOLLOY,61.0,2,Physics
+95,18,White American,96,DANIEL SCDORIS,71.0,1,Physics
+96,19,White American,97,DANIEL YONTS,84.0,1,Physics
+97,18,White American,98,DARCY KELLER,91.0,1,Physics
+98,21,European American,99,DARREN CHOY,61.0,1,Physics
+99,19,Hispanic,100,DARRYL HUNTER,61.0,2,Physics
+100,18,Hispanic,101,DAVID BRIGGS,41.0,1,Physics
+101,20,African American,102,DAVID FRANKLIN,49.0,1,Physics
+102,18,European American,103,DAVID HAWKINS,91.0,1,Physics
+103,21,White American,104,DAVID KUSHNER,62.0,1,Physics
+104,18,European American,105,DAVID LAZAR,78.0,2,Physics
+105,19,White American,106,DAVID OWEN,61.0,1,Physics
+106,21,European American,107,DAVID PFEIFER,0.0,1,Physics
+107,21,European American,108,DAVID SHINN,81.0,1,Physics
+108,19,White American,109,DAVID SULLIVAN,0.0,1,Physics
+109,21,White American,110,DAVID THOMPSON,81.0,2,Physics
+110,21,European American,111,DAVID ZWYER,61.0,1,Physics
+111,18,White American,112,DEBBIE TAM,81.0,1,Physics
+112,19,Hispanic,113,DEBORAH BORNE,84.0,1,Physics
+113,19,White American,114,DEBORAH JETER,41.0,1,Physics
+114,20,European American,115,DEBORAH LOGAN,91.0,2,Physics
+115,21,White American,116,DEBRA JOHNSON,84.0,1,Physics
+116,18,European American,117,DENIS JOYCE,71.0,1,Physics
+117,20,White American,118,DENIS OLEARY,49.0,1,Physics
+118,20,European American,119,DENISE BAILEY,78.0,1,Physics
+119,21,White American,120,DENISE NEWMAN,81.0,2,Physics
+120,18,European American,121,DENISE SCHMITT,87.0,1,Physics
+121,18,White American,122,DENNIS HERRERA,0.0,1,Physics
+122,21,White American,123,DENNIS MARTINEZ,81.0,1,Physics
+123,19,European American,124,DENNIS O'NEILL,41.0,1,Physics
+124,18,European American,125,DENNIS SUTTER,49.0,2,Physics
+125,20,White American,126,DEREK WING,91.0,1,Physics
+126,21,White American,127,DERIO DITO,41.0,1,Physics
+127,20,European American,128,DIANA GUEVARA,71.0,1,Physics
+128,21,White American,129,DOMINIC CELAYA,62.0,1,Physics
+129,18,European American,130,DONALD BRYANT,71.0,2,Physics
+130,18,Hispanic,131,DONALD FIELDS,62.0,1,Physics
+131,20,Hispanic,132,DONALD MARGOLIS,71.0,1,Physics
+132,18,European American,133,DONALDSON SHUMPERT,49.0,1,Physics
+133,18,White American,134,DONNA LEE,81.0,1,Physics
+134,18,Hispanic,135,DONNA MEIXNER,81.0,2,Physics
+135,21,European American,136,DONNIE HORNBUCKLE,61.0,1,Physics
+136,21,Hispanic,137,DOUGLAS MCEACHERN,61.0,1,Physics
+137,20,White American,138,DOUGLAS RIBA,87.0,1,Physics
+138,21,European American,139,DUSTIN NOVO,81.0,1,Physics
+139,21,White American,140,DWAYNE CURRY,88.0,2,Physics
+140,18,White American,141,EDGAR CALLEJAS,78.0,1,Physics
+141,20,Hispanic,142,EDGAR GONZALEZ,91.0,1,Physics
+142,18,Hispanic,143,EDMUND DEA,81.0,1,Physics
+143,18,White American,144,EDMUND VAIL,62.0,1,Physics
+144,21,White American,145,EDUARDO GONZALEZ,84.0,2,Physics
+145,20,Hispanic,146,EDWARD CAMPBELL,78.0,1,Physics
+146,18,European American,147,EDWARD CHEUNG,49.0,1,Physics
+147,19,Hispanic,148,EDWARD CHU,84.0,1,Physics
+148,18,White American,149,EDWARD DELCARLO,41.0,1,Physics
+149,21,White American,150,EDWARD DENNIS,61.0,2,Physics
+150,18,European American,151,EDWARD HARRINGTON,91.0,1,Physics
+151,18,White American,152,EDWARD REISKIN,27.0,1,Physics
+152,18,European American,153,EDWARD ROLAND,62.0,1,Physics
+153,19,White American,154,EDWIN LEE,41.0,1,Physics
+154,18,White American,155,EHRHARDT GROOTHOFF,49.0,2,Physics
+155,19,White American,156,ELAINE COLEMAN,41.0,1,Physics
+156,18,European American,157,ELISA RAMIREZ,49.0,1,Physics
+157,18,European American,158,ELIZABETH JOHNSON,87.0,1,Physics
+158,19,European American,159,ELLEN APOLINARIO,81.0,1,Physics
+159,18,European American,160,ELLEN LEVIN,49.0,2,Physics
+160,18,White American,161,ELLEN MOFFATT,84.0,1,Physics
+161,18,White American,162,ERIBERTO ISON,81.0,1,Physics
+162,18,Hispanic,163,ERIC CRANSTON,78.0,1,Physics
+163,19,White American,164,ERIKA HOO,81.0,1,Physics
+164,18,European American,165,ERNEST JOHNSON,41.0,2,Physics
+165,20,Hispanic,166,EUGENE GALEANO,78.0,1,Physics
+166,18,European American,167,EVETTE GEER-STEVENS,87.0,1,Physics
+167,19,White American,168,FE HORTINELA,61.0,1,Physics
+168,19,White American,169,FERDINAND CADELINA,61.0,1,Physics
+169,18,Hispanic,170,FERDINAND MENESES,71.0,2,Physics
+170,18,European American,171,FERNANDO DEALBA,84.0,1,Physics
+171,18,White American,172,FLAVIA BAYATI,61.0,1,Physics
+172,20,White American,173,FLOYD ROLLINS,49.0,1,Physics
+173,19,White American,174,FRANK CARDINALE,84.0,1,Physics
+174,19,Hispanic,175,FRANK HSIEH,41.0,2,Physics
+175,18,White American,176,FRANK KOSTA,91.0,1,Physics
+176,18,African American,177,FREDERICK BINKLEY,71.0,1,Physics
+177,20,Hispanic,178,FUAD SWEISS,49.0,1,Physics
+178,18,Hispanic,179,GARRET TOM,49.0,1,Physics
+179,18,European American,180,GARY AMELIO,91.0,2,Physics
+180,20,White American,181,GARY CONSTANTINE,91.0,1,Physics
+181,19,White American,182,GARY JIMENEZ,81.0,1,Physics
+182,19,African American,183,GAVIN ESTUPINIAN,84.0,1,Physics
+183,19,Hispanic,184,GEORGE FOURAS,84.0,1,Physics
+184,20,White American,185,GEORGE GARCIA,91.0,2,Physics
+185,20,European American,186,GEORGE GASCON,71.0,1,Physics
+186,20,Hispanic,187,GEORGE LYSENKO,71.0,1,Physics
+187,20,European American,188,GERALD DARCY,91.0,1,Physics
+188,20,European American,189,GERALD MANSUR JR,87.0,1,Physics
+189,18,White American,190,GERARDO PINTO,78.0,2,Physics
+190,19,White American,191,GHODSI DAVARY,81.0,1,Physics
+191,18,African American,192,GLEN KOJIMOTO,87.0,1,Physics
+192,19,European American,193,GLENN KIRCHER,81.0,1,Physics
+193,21,Hispanic,194,GLENN MAR,81.0,1,Physics
+194,20,African American,195,GLENN ORTIZ-SCHULDT,87.0,2,Physics
+195,18,European American,196,GLORIA GARCIA ORME,87.0,1,Physics
+196,21,White American,197,GRAD GREEN,81.0,1,Physics
+197,20,White American,198,GREGORY CACHARELIS,91.0,1,Physics
+198,21,European American,199,GREGORY CORRALES,84.0,1,Physics
+199,18,White American,200,GREGORY MAR,49.0,2,Physics
+200,18,Hispanic,201,GREGORY MCFARLAND,62.0,1,Physics
+201,20,White American,202,GREGORY STANGLAND,87.0,1,Physics
+202,19,White American,203,GREGORY SUHR,41.0,1,Physics
+203,19,Hispanic,204,GUY GOODWIN,81.0,1,Physics
+204,18,European American,205,HAGOP HAJIAN,78.0,2,Physics
+205,19,Hispanic,206,HANS VIGIL,62.0,1,Physics
+206,20,European American,207,HARLAN KELLY-JR,71.0,1,Physics
+207,18,White American,208,HAROLD BYRD,71.0,1,Physics
+208,18,White American,209,HARRY PINKARD,91.0,1,Physics
+209,19,White American,210,HARVEY ELWIN,62.0,2,Physics
+210,21,African American,211,HENRY LARKIN,62.0,1,Physics
+211,19,White American,212,HERALIO SERRANO,84.0,1,Physics
+212,19,Hispanic,213,HERBERT CARNEY,84.0,1,Physics
+213,18,White American,214,HERBERT HENLEY,71.0,1,Physics
+214,19,White American,215,IRENE SUNG,62.0,2,Physics
+215,19,European American,216,IVAR SATERO,69.0,1,Physics
+216,20,Hispanic,217,JACK CHOW,78.0,1,Physics
+217,18,White American,218,JACKSON WONG,78.0,1,Physics
+218,19,White American,219,JALAL AINEB,41.0,1,Physics
+219,18,White American,220,JAMES BLAKE,91.0,2,Physics
+220,19,Hispanic,221,JAMES BOSCH,62.0,1,Physics
+221,21,European American,222,JAMES CALONICO,81.0,1,Physics
+222,18,White American,223,JAMES DEIGNAN,78.0,1,Physics
+223,18,European American,224,JAMES DUDLEY,87.0,1,Physics
+224,21,Hispanic,225,JAMES EMERY,81.0,2,Physics
+225,20,White American,226,JAMES FAZACKERLEY,91.0,1,Physics
+226,20,Hispanic,227,JAMES FLORES,49.0,1,Physics
+227,20,European American,228,JAMES HARRIGAN,87.0,1,Physics
+228,19,White American,229,JAMES MILLER,41.0,1,Physics
+229,18,European American,230,JAMES SPILLANE,61.0,2,Physics
+230,20,White American,231,JAMES VANNUCCHI,71.0,1,Physics
+231,18,White American,232,JANET HINES,87.0,1,Physics
+232,20,European American,233,JASON PAW,49.0,1,Physics
+233,18,Hispanic,234,JAY HUISH,49.0,1,Physics
+234,18,White American,235,JAY KLOO,49.0,2,Physics
+235,18,Hispanic,236,JEFF COLUMBINI,91.0,1,Physics
+236,20,White American,237,JEFF IWASAKI,71.0,1,Physics
+237,20,Hispanic,238,JEFFREY ADACHI,91.0,1,Physics
+238,18,White American,239,JEFFREY BARDEN,78.0,1,Physics
+239,18,White American,240,JEFFREY MYERS,49.0,2,Physics
+240,18,European American,241,JENNIFER DEBERRY,91.0,1,Physics
+241,20,European American,242,JENNIFER MATZ,71.0,1,Physics
+242,18,Hispanic,243,JERRY COLEMAN,62.0,1,Physics
+243,20,White American,244,JESSE SMITH,87.0,1,Physics
+244,20,European American,245,JESUS PENA,87.0,2,Physics
+245,18,Hispanic,246,JILL LECOUNT,81.0,1,Physics
+246,20,African American,247,JIM GIANG,71.0,1,Physics
+247,18,White American,248,JIM HALL III,62.0,1,Physics
+248,20,White American,249,JIMMIE LEW,71.0,1,Physics
+249,19,European American,250,JOANNE HAYES-WHITE,84.0,2,Physics
+250,18,African American,251,JOANNE HOEPER,84.0,1,Physics
+251,20,European American,252,JOHN BARKER,78.0,1,Physics
+252,18,European American,253,JOHN BRAGAGNOLO,61.0,1,Physics
+253,19,African American,254,JOHN BROWN,41.0,1,Physics
+254,18,European American,255,JOHN BUCHANAN JR,81.0,2,Physics
+255,19,White American,256,JOHN CAVANAUGH,61.0,1,Physics
+256,20,White American,257,JOHN CREMEN,71.0,1,Physics
+257,18,European American,258,JOHN EHRLICH,71.0,1,Physics
+258,20,White American,259,JOHN FEENEY,49.0,1,Physics
+259,18,White American,260,JOHN FLORES,41.0,2,Physics
+260,18,White American,261,JOHN GARRITY,87.0,1,Physics
+261,18,White American,262,JOHN GOLDBERG,91.0,1,Physics
+262,18,Hispanic,263,JOHN HALEY JR,91.0,1,Physics
+263,20,White American,264,JOHN HANLEY,78.0,1,Physics
+264,18,White American,265,JOHN HART,49.0,2,Physics
+265,21,European American,266,JOHN HICKEY,62.0,1,Physics
+266,19,White American,267,JOHN KOSTA,41.0,1,Physics
+267,20,White American,268,JOHN LOFTUS,78.0,1,Physics
+268,19,European American,269,JOHN MARTIN,61.0,1,Physics
+269,19,Hispanic,270,JOHN MURPHY,61.0,2,Physics
+270,21,Hispanic,271,JOHN MURPHY,84.0,1,Physics
+271,20,White American,272,JOHN NESTOR,78.0,1,Physics
+272,18,Hispanic,273,JOHN RAHAIM,91.0,1,Physics
+273,20,White American,274,JOHN ROCCO,49.0,1,Physics
+274,18,White American,275,JOHN SANFORD JR,87.0,2,Physics
+275,19,White American,276,JOHN STANFIELD,61.0,1,Physics
+276,19,African American,277,JOHN TURSI,61.0,1,Physics
+277,18,White American,278,JOHN VAN KOLL,87.0,1,Physics
+278,18,White American,279,JOHNSON YOU,62.0,1,Physics
+279,19,European American,280,JON WALTON,61.0,2,Physics
+280,19,European American,281,JONATHAN BAXTER,41.0,1,Physics
+281,20,White American,282,JONES WONG,87.0,1,Physics
+282,21,White American,283,JOSE CASTILLO,41.0,1,Physics
+283,20,Hispanic,284,JOSE VELO,49.0,1,Physics
+284,18,Hispanic,285,JOSEPH CUFF,71.0,2,Physics
+285,18,White American,286,JOSEPH DRISCOLL,49.0,1,Physics
+286,18,White American,287,JOSEPH FISCHER-III,91.0,1,Physics
+287,18,White American,288,JOSEPH FONG,91.0,1,Physics
+288,19,European American,289,JOSEPH MAYERS,81.0,1,Physics
+289,20,White American,290,JOSEPH WOODS,87.0,2,Physics
+290,19,European American,291,JOSEPHINE RAPADAS,62.0,1,Physics
+291,20,European American,292,JOSHUA BAMBERGER,91.0,1,Physics
+292,19,European American,293,JOSHUA KUMLI,84.0,1,Physics
+293,19,White American,294,JUDY MELINEK,81.0,1,Physics
+294,18,European American,295,JULIA M C FRIEDLANDER,62.0,2,Physics
+295,20,European American,296,JULIE LABONTE,91.0,1,Physics
+296,18,African American,297,JULIE VAN NOSTERN,87.0,1,Physics
+297,20,European American,298,JULIET ELLIS,91.0,1,Physics
+298,18,White American,299,JULIO ESCOBAR,81.0,1,Physics
+299,18,Hispanic,300,JUNE CRAVET,87.0,2,Physics
+300,19,White American,301,KANDACE BENDER,60.0,1,Physics
+301,18,White American,302,KAREN ROYE,49.0,1,Physics
+302,19,European American,303,KARL JURGENSON,81.0,1,Physics
+303,21,Hispanic,304,KATE HERRMAN STACY,62.0,1,Physics
+304,20,African American,305,KATHLEEN MAXWELL,49.0,2,Physics
+305,20,Hispanic,306,KATHRYN BALLOU,78.0,1,Physics
+306,18,European American,307,KATHRYN FOWLER,71.0,1,Physics
+307,18,White American,308,KATHRYN HOW,71.0,1,Physics
+308,19,European American,309,KEITH SANFORD,60.0,1,Physics
+309,19,European American,310,KEN YEE,84.0,2,Physics
+310,20,Hispanic,311,KENNETH CORDERO,87.0,1,Physics
+311,18,White American,312,KENNETH SMITH,71.0,1,Physics
+312,21,European American,313,KEVIN BARRY,62.0,1,Physics
+313,18,White American,314,KEVIN BURKE,78.0,1,Physics
+314,21,Hispanic,315,KEVIN CASHMAN,41.0,2,Physics
+315,19,Hispanic,316,KEVIN JONES,62.0,1,Physics
+316,19,Hispanic,317,KEVIN KUHN,62.0,1,Physics
+317,20,White American,318,KEVIN LABANOWSKI,87.0,1,Physics
+318,19,White American,319,KEVIN SMITH,62.0,1,Physics
+319,18,White American,320,KEVIN TAYLOR,71.0,2,Physics
+320,20,White American,321,KHAIRUL ALI,87.0,1,Physics
+321,18,Hispanic,322,KHOA TRINH,41.0,1,Physics
+322,18,White American,323,KIMIKO BURTON,71.0,1,Physics
+323,20,European American,324,KIRK RICHARDSON,71.0,1,Physics
+324,21,European American,325,KIRSTEN BARASH,61.0,2,Physics
+325,19,White American,326,L MILITELLO,62.0,1,Physics
+326,19,White American,327,LAN LEE,81.0,1,Physics
+327,21,White American,328,LARRY MITCHELL,61.0,1,Physics
+328,20,White American,329,LAUIFI SEUMAALA,91.0,1,Physics
+329,18,European American,330,LAURENCE RAMLAN,91.0,2,Physics
+330,18,Hispanic,331,LAWRENCE FREED,91.0,1,Physics
+331,20,White American,332,LAWRENCE LEE,49.0,1,Physics
+332,19,Hispanic,333,LAWRENCE NICHOLLS,62.0,1,Physics
+333,18,Hispanic,334,LENETTE THOMPSON,62.0,1,Physics
+334,20,European American,335,LENORA JACOBS,49.0,2,Physics
+335,20,Hispanic,336,LEON KUO,91.0,1,Physics
+336,20,White American,337,LEON WHITE,87.0,1,Physics
+337,19,Hispanic,338,LEONARD BROBERG,61.0,1,Physics
+338,18,White American,339,LEONARDO FERMIN,84.0,1,Physics
+339,21,White American,340,LESLIE DUBBIN,84.0,2,Physics
+340,19,European American,341,LINDA ROSS,61.0,1,Physics
+341,19,African American,342,LISA GOLDEN,62.0,1,Physics
+342,21,White American,343,LISA HOFFMANN,62.0,1,Physics
+343,18,White American,344,LISETTE ADAMS,41.0,1,Physics
+344,21,European American,345,LORI BORGHI,84.0,2,Physics
+345,20,White American,346,LORRIE KALOS,91.0,1,Physics
+346,19,European American,347,LOUIS CASSANEGO,62.0,1,Physics
+347,18,Hispanic,348,LUIS HERRERA,87.0,1,Physics
+348,19,White American,349,LUIS IBARRA-RIVERA,81.0,1,Physics
+349,19,White American,350,LYN TOMIOKA,61.0,2,Physics
+350,18,White American,351,MADONNA VALENCIA,71.0,1,Physics
+351,18,European American,352,MAGALY SAADE,27.0,1,Physics
+352,18,White American,353,MAMI SUZUKI-VIDALON,61.0,1,Physics
+353,18,Hispanic,354,MANUEL PEGUEROS,91.0,1,Physics
+354,20,White American,355,MARGARET CALLAHAN,78.0,2,Physics
+355,18,White American,356,MARGARET HANNAFORD,78.0,1,Physics
+356,18,Hispanic,357,MARGARET RYKOWSKI,61.0,1,Physics
+357,21,White American,358,MARIA BEE,84.0,1,Physics
+358,18,White American,359,MARISA MORET,71.0,1,Physics
+359,21,White American,360,MARK CASTAGNOLA,41.0,2,Physics
+360,18,Hispanic,361,MARK GAMBLE,41.0,1,Physics
+361,20,African American,362,MARK GONZALES,71.0,1,Physics
+362,19,European American,363,MARK HERNANDEZ,84.0,1,Physics
+363,19,White American,364,MARK JOHNSON,81.0,1,Physics
+364,19,White American,365,MARK KEARNEY,62.0,2,Physics
+365,18,European American,366,MARK SENORES,62.0,1,Physics
+366,20,Hispanic,367,MARK SMITH,71.0,1,Physics
+367,20,European American,368,MARK SOLOMON,71.0,1,Physics
+368,19,European American,369,MARTIEN VERHAEG,41.0,1,Physics
+369,20,White American,370,MARTIN BELTRAN,87.0,2,Physics
+370,18,European American,371,MARTIN GRAN,87.0,1,Physics
+371,18,Hispanic,372,MARTIN HALLORAN,78.0,1,Physics
+372,20,White American,373,MARTIN LALOR JR,71.0,1,Physics
+373,20,Hispanic,374,MARTY ROSS,87.0,1,Physics
+374,19,European American,375,MARY TSE,84.0,2,Physics
+375,21,White American,376,MASAE KAWAMURA,84.0,1,Physics
+376,19,White American,377,MATTHEW CANNON,62.0,1,Physics
+377,18,White American,378,MATTHEW MCNAUGHTON,91.0,1,Physics
+378,18,White American,379,MATTHEW ROTHSCHILD,41.0,1,Physics
+379,20,White American,380,MELANY BRANDON,49.0,2,Physics
+380,20,European American,381,MELISSA LERMA,87.0,1,Physics
+381,18,European American,382,MERCEDES GERMAN,71.0,1,Physics
+382,21,Hispanic,383,MICHAEL AHERN,62.0,1,Physics
+383,19,White American,384,MICHAEL BELLO,62.0,1,Physics
+384,20,White American,385,MICHAEL BIEL,87.0,2,Physics
+385,18,White American,386,MICHAEL BROWNE,81.0,1,Physics
+386,20,European American,387,MICHAEL BRYANT,78.0,1,Physics
+387,19,White American,388,MICHAEL CARLIN,62.0,1,Physics
+388,18,White American,389,MICHAEL CASTAGNOLA,71.0,1,Physics
+389,18,European American,390,MICHAEL COLEMAN,87.0,2,Physics
+390,19,White American,391,MICHAEL CONNOLLY,41.0,1,Physics
+391,20,White American,392,MICHAEL DALY,78.0,1,Physics
+392,20,White American,393,MICHAEL DELANE,87.0,1,Physics
+393,18,White American,394,MICHAEL DRENNAN,71.0,1,Physics
+394,20,European American,395,MICHAEL DUDOROFF,78.0,2,Physics
+395,20,European American,396,MICHAEL ELLIS,91.0,1,Physics
+396,19,White American,397,MICHAEL GONZALES,84.0,1,Physics
+397,19,White American,398,MICHAEL HENNESSEY,61.0,1,Physics
+398,21,Hispanic,399,MICHAEL KEARNEY,81.0,1,Physics
+399,18,White American,400,MICHAEL MORRIS,87.0,2,Physics
+400,20,Hispanic,401,MICHAEL MOYNIHAN,87.0,1,Physics
+401,20,Hispanic,402,MICHAEL PHILPOTT,49.0,1,Physics
+402,20,White American,403,MICHAEL QUAN,91.0,1,Physics
+403,18,African American,404,MICHAEL ROLOVICH,91.0,1,Physics
+404,18,Hispanic,405,MICHAEL SIMMONS,49.0,2,Physics
+405,19,White American,406,MICHAEL SMITH,41.0,1,Physics
+406,18,White American,407,MICHAEL THOMPSON,71.0,1,Physics
+407,18,White American,408,MICHAEL THOMPSON,61.0,1,Physics
+408,19,European American,409,MICHAEL WALSH,41.0,1,Physics
+409,18,European American,410,MICHAEL WHOOLEY,78.0,2,Physics
+410,18,Hispanic,411,MIKAIL ALI,78.0,1,Physics
+411,19,European American,412,MIKE BREILING,62.0,1,Physics
+412,21,White American,413,MILTON ESTES,61.0,1,Physics
+413,19,White American,414,MIRIAM DAMON,62.0,1,Physics
+414,18,White American,415,MITCHELL LEE,91.0,2,Physics
+415,21,White American,416,MIVIC HIROSE,41.0,1,Physics
+416,19,European American,417,MOHAMMED NURU,61.0,1,Physics
+417,19,European American,418,MONICA FIELDS,57.0,1,Physics
+418,19,Hispanic,419,MONIQUE MOYER,61.0,1,Physics
+419,18,White American,420,MONIQUE ZMUDA,81.0,2,Physics
+420,18,Hispanic,421,MORGAN PETITI,71.0,1,Physics
+421,20,African American,422,MYO CHANG,78.0,1,Physics
+422,20,White American,423,NANCY LEW,78.0,1,Physics
+423,21,White American,424,NANCY PARKER,62.0,1,Physics
+424,19,European American,425,NATHAN HARDY,81.0,2,Physics
+425,18,White American,426,NATHANIEL FORD,71.0,1,Physics
+426,20,White American,427,NEIL SWENDSEN,87.0,1,Physics
+427,19,Hispanic,428,NELA PONFERRADA,61.0,1,Physics
+428,20,White American,429,NELSON ACETO,78.0,1,Physics
+429,18,European American,430,NEREE DASTOUS,41.0,2,Physics
+430,20,European American,431,NICHOLAS COLANGELO,91.0,1,Physics
+431,18,White American,432,NICOL JURATOVAC,84.0,1,Physics
+432,18,White American,433,NICOLETTE DIVECCHIO,49.0,1,Physics
+433,18,White American,434,NIKOLAS LEMOS,78.0,1,Physics
+434,19,White American,435,NOEL MORONEY,62.0,2,Physics
+435,20,White American,436,NOREEN AMBROSE,87.0,1,Physics
+436,18,White American,437,OLLIE BANKS,41.0,1,Physics
+437,18,European American,438,OSCAR CABRERA,49.0,1,Physics
+438,19,White American,439,OWEN CLEMENTS,81.0,1,Physics
+439,18,White American,440,PABLO SIGUENZA,87.0,2,Physics
+440,18,European American,441,PATRIC STEELE,49.0,1,Physics
+441,19,Hispanic,442,PATRICIA CARR,84.0,1,Physics
+442,18,European American,443,PATRICIA JACKSON,81.0,1,Physics
+443,19,Hispanic,444,PATRICIA O'CONNER,41.0,1,Physics
+444,18,White American,445,PATRICK GARDNER,49.0,2,Physics
+445,20,Hispanic,446,PATRICK MULLANEY,71.0,1,Physics
+446,19,African American,447,PAUL CHIGNELL,81.0,1,Physics
+447,19,White American,448,PAUL HENDERSON,62.0,1,Physics
+448,20,White American,449,PAUL LEE,78.0,1,Physics
+449,19,Hispanic,450,PAUL URQUIAGA,81.0,2,Physics
+450,20,White American,451,PAULINE MARX,78.0,1,Physics
+451,18,European American,452,PERRY LEONG,78.0,1,Physics
+452,18,Hispanic,453,PETE FAY JR,91.0,1,Physics
+453,19,Hispanic,454,PETER THOSHINSKY,81.0,1,Physics
+454,20,White American,455,PHILIP GINSBURG,71.0,2,Physics
+455,20,Hispanic,456,PHILIP PERA,87.0,1,Physics
+456,18,White American,457,PHILIP STEVENS,91.0,1,Physics
+457,20,European American,458,PIERRE FRANCOIS,91.0,1,Physics
+458,18,European American,459,PIERRE MARTINEZ,49.0,1,Physics
+459,18,African American,460,RAEMONA WILLIAMS,81.0,2,Physics
+460,20,White American,461,RAJIV BHATIA,91.0,1,Physics
+461,19,European American,462,RANDY LY,61.0,1,Physics
+462,20,White American,463,RANDY MANNING,87.0,1,Physics
+463,20,Hispanic,464,RASMI CHAN,71.0,1,Physics
+464,21,White American,465,RAUL FRANCISCO,45.0,2,Physics
+465,20,Hispanic,466,RAY CRAWFORD,49.0,1,Physics
+466,21,European American,467,RAYMOND CHAVEZ,84.0,1,Physics
+467,18,White American,468,RAYMOND GUZMAN,62.0,1,Physics
+468,18,Hispanic,469,RAYMOND KOENIG,49.0,1,Physics
+469,18,White American,470,REGINA GOMEZ,78.0,2,Physics
+470,18,White American,471,RENEE MARQUARDT,78.0,1,Physics
+471,20,Hispanic,472,REX HALE,49.0,1,Physics
+472,21,African American,473,RICHARD BUSALACCHI,81.0,1,Physics
+473,21,Hispanic,474,RICHARD CORRIEA,41.0,1,Physics
+474,20,White American,475,RICHARD CURRIE,87.0,2,Physics
+475,20,White American,476,RICHARD ELLIOTT,78.0,1,Physics
+476,19,White American,477,RICHARD PARRY,41.0,1,Physics
+477,18,White American,478,RICHARD UNTALAN,71.0,1,Physics
+478,18,White American,479,RICHARD VAN KOLL,91.0,1,Physics
+479,21,White American,480,RICHARD ZERCHER,84.0,2,Physics
+480,19,White American,481,RICKY HUI,84.0,1,Physics
+481,18,Hispanic,482,ROBERT BONNET,81.0,1,Physics
+482,20,European American,483,ROBERT BRYAN,78.0,1,Physics
+483,19,White American,484,ROBERT CHIN,62.0,1,Physics
+484,18,Hispanic,485,ROBERT COLEMAN,84.0,2,Physics
+485,20,White American,486,ROBERT GALLOT,87.0,1,Physics
+486,20,White American,487,ROBERT GUILLERMO,91.0,1,Physics
+487,18,White American,488,ROBERT KAPROSCH,71.0,1,Physics
+488,18,Hispanic,489,ROBERT LOPEZ,71.0,1,Physics
+489,20,European American,490,ROBERT MAERZ,49.0,2,Physics
+490,18,European American,491,ROBERT MUHAMMAD,84.0,1,Physics
+491,20,European American,492,ROBERT POSTEL,78.0,1,Physics
+492,19,White American,493,ROBERT SERRANO,84.0,1,Physics
+493,20,White American,494,ROBERT SHAW,87.0,1,Physics
+494,18,European American,495,ROBERT STYLES,71.0,2,Physics
+495,18,European American,496,ROBERT TAI,71.0,1,Physics
+496,18,Hispanic,497,ROBERT VELARDE,87.0,1,Physics
+497,19,White American,498,ROBERT WINSLOW,81.0,1,Physics
+498,18,European American,499,ROLAND PICKENS,84.0,1,Physics
+499,18,White American,500,RONALD PRUYN,49.0,2,Physics
+500,20,White American,501,ROSE QUINONES,49.0,1,Physics
+501,18,European American,502,ROSELYN JEQUINTO,61.0,1,Physics
+502,18,European American,503,ROSEMARY LEE,87.0,1,Physics
+503,18,Hispanic,504,ROWENA PATEL,87.0,1,Physics
+504,19,Hispanic,505,RUBY MARTIN,41.0,2,Physics
+505,21,European American,506,RUDOLPH ERLER,62.0,1,Physics
+506,21,White American,507,RUDY CASTELLANOS,62.0,1,Physics
+507,18,White American,508,RYAN CREAN,49.0,1,Physics
+508,19,White American,509,RYAN KENNEDY,61.0,1,Physics
+509,18,White American,510,SAHIR PUTRUS,49.0,2,Physics
+510,18,White American,511,SAM YUEN,87.0,1,Physics
+511,20,European American,512,SAMSON LAI,78.0,1,Physics
+512,19,White American,513,SAMUEL NIETO,41.0,1,Physics
+513,19,White American,514,SAMUEL ROMERO,61.0,1,Physics
+514,18,White American,515,SANDRA HUANG,61.0,2,Physics
+515,18,European American,516,SANDRA TONG,49.0,1,Physics
+516,18,White American,517,SARAH CARY,78.0,1,Physics
+517,19,African American,518,SCOTT SCHOLZEN,84.0,1,Physics
+518,20,White American,519,SEAN BONETTI,91.0,1,Physics
+519,19,Hispanic,520,SEBASTIAN WONG,60.0,2,Physics
+520,20,European American,521,SHANNON SAKOWSKI,78.0,1,Physics
+521,19,European American,522,SHARON FERRIGNO,41.0,1,Physics
+522,18,White American,523,SHARON MCCOLE WICHER,49.0,1,Physics
+523,21,Hispanic,524,SHARON WOO,41.0,1,Physics
+524,19,White American,525,SHELLEY MITCHELL,81.0,2,Physics
+525,18,Hispanic,526,SIU-KWAN CHOW,87.0,1,Physics
+526,20,Hispanic,527,SOFIA MATHEWS,71.0,1,Physics
+527,18,White American,528,SONALI BOSE,84.0,1,Physics
+528,19,Hispanic,529,STEPHEN TACCHINI,41.0,1,Physics
+529,19,White American,530,STEPHEN TITTEL,84.0,2,Physics
+530,18,White American,531,STEVEN MANNINA,41.0,1,Physics
+531,21,European American,532,STEVEN RITCHIE,61.0,1,Physics
+532,21,European American,533,STEVEN WILLIAMS,41.0,1,Physics
+533,21,White American,534,STEVEN WOZNIAK,84.0,1,Physics
+534,20,White American,535,SURINDERJEET BAJWA,91.0,2,Physics
+535,20,European American,536,SUSAN BUCHBINDER,91.0,1,Physics
+536,18,Hispanic,537,SUSAN CURRIN,78.0,1,Physics
+537,19,European American,538,SUSAN FERNYAK,61.0,1,Physics
+538,18,Hispanic,539,SUSAN GARRETT,87.0,1,Physics
+539,18,European American,540,SUSAN ILNICKI,61.0,2,Physics
+540,21,White American,541,TANGERINE BRIGHAM,62.0,1,Physics
+541,18,European American,542,TED YAMASAKI,91.0,1,Physics
+542,18,African American,543,TERENCE OSULLIVAN,78.0,1,Physics
+543,20,European American,544,TERESA BARRETT,71.0,1,Physics
+544,20,European American,545,THERESA DENTONI,78.0,2,Physics
+545,19,White American,546,THERESA LEE,81.0,1,Physics
+546,19,White American,547,THERESA MUELLER,61.0,1,Physics
+547,18,White American,548,THERESE STEWART,84.0,1,Physics
+548,19,White American,549,THOMAS ABBOTT,81.0,1,Physics
+549,20,African American,550,THOMAS ALDANA,78.0,2,Physics
+550,18,White American,551,THOMAS BIBER,78.0,1,Physics
+551,18,White American,552,THOMAS BUSBY,87.0,1,Physics
+552,19,White American,553,THOMAS CLEARY,81.0,1,Physics
+553,21,Hispanic,554,THOMAS CUNNANE,61.0,1,Physics
+554,19,White American,555,THOMAS HARVEY,62.0,2,Physics
+555,18,White American,556,THOMAS KOHMANN,78.0,1,Physics
+556,19,European American,557,THOMAS MURPHY,62.0,1,Physics
+557,19,Hispanic,558,THOMAS REY,61.0,1,Physics
+558,18,European American,559,THOMAS SHAWYER,87.0,1,Physics
+559,20,White American,560,THOMAS SIRAGUSA,91.0,2,Physics
+560,18,African American,561,TIM AREJA,62.0,1,Physics
+561,20,White American,562,TIMOTHY SINCLAIR,49.0,1,Physics
+562,19,White American,563,TIMOTHY SULLIVAN,61.0,1,Physics
+563,18,European American,564,TODD RYDSTROM,41.0,1,Physics
+564,21,White American,565,TOMAS ARAGON,61.0,2,Physics
+565,18,White American,566,TONEY CHAPLIN,61.0,1,Physics
+566,21,European American,567,TRENT RHORER,62.0,1,Physics
+567,18,African American,568,TROY JOLLIFF,49.0,1,Physics
+568,20,White American,569,TROY WILLIAMS,91.0,1,Physics
+569,19,Hispanic,570,TRYG MCCOY,61.0,2,Physics
+570,19,European American,571,TUAMELIE MOALA,41.0,1,Physics
+571,20,Hispanic,572,TYRONE PRUITT,78.0,1,Physics
+572,18,European American,573,TYRONNE JULIAN,49.0,1,Physics
+573,18,European American,574,VALERIE AGARD,81.0,1,Physics
+574,20,European American,575,VALERIE INOUYE,71.0,2,Physics
+575,21,White American,576,VAN LY,81.0,1,Physics
+576,18,White American,577,VENUS AZAR,71.0,1,Physics
+577,19,White American,578,VERNONICA JONES,81.0,1,Physics
+578,18,White American,579,VICKI CLAYTON,78.0,1,Physics
+579,21,White American,580,VICTOR WYRSCH,61.0,2,Physics
+580,18,African American,581,VINCENT DAVIS,91.0,1,Physics
+581,20,White American,582,VINCENT PAMPANIN,87.0,1,Physics
+582,21,Hispanic,583,VIVIAN DAY,41.0,1,Physics
+583,18,Hispanic,584,WAYNE SNODGRASS,91.0,1,Physics
+584,18,European American,585,WENDY STILL,87.0,2,Physics
+585,20,White American,586,WHITNEY YEE,49.0,1,Physics
+586,19,White American,587,WILLIAM MCFARLAND,81.0,1,Physics
+587,18,Hispanic,588,WILLIAM MCFARLAND,41.0,1,Physics
+588,19,European American,589,WILLIAM MULKEEN,84.0,1,Physics
+589,20,Hispanic,590,WILLIAM RADER,78.0,2,Physics
+590,19,White American,591,WILLIAM ROUALDES,61.0,1,Physics
+591,19,Hispanic,592,WILLIAM SCOTT,84.0,1,Physics
+592,20,Hispanic,593,WILLIAM SIFFERMANN,87.0,1,Physics
+593,19,European American,594,WING CHAN,84.0,1,Physics
+594,19,White American,595,WING NG,41.0,2,Physics
+595,18,White American,596,YIFANG QIAN,71.0,1,Physics
+596,20,White American,597,ZACHARY PUMPHREY,49.0,1,Physics
+597,20,Hispanic,598,ZEBA IMAN NAZEERI-SIMMONS,71.0,1,Physics
+598,19,Hispanic,599,ZHI JIAR ZHUANG,69.0,1,Physics
+0,18,,1,,82.0,1,Data Structue
+1,19,,2,,79.0,1,Data Structue
+2,19,,3,,39.0,1,Data Structue
+3,18,,4,,76.0,1,Data Structue
+4,18,,5,,76.0,2,Data Structue
+5,20,,6,,89.0,1,Data Structue
+6,18,,7,,89.0,1,Data Structue
+7,19,,8,,59.0,1,Data Structue
+8,18,,9,,82.0,1,Data Structue
+9,19,,10,,82.0,2,Data Structue
+10,20,,11,,47.0,1,Data Structue
+11,20,,12,,47.0,1,Data Structue
+12,19,,13,,60.0,1,Data Structue
+13,18,,14,,82.0,1,Data Structue
+14,21,,15,,82.0,2,Data Structue
+15,20,,16,,76.0,1,Data Structue
+16,18,,17,,25.0,1,Data Structue
+17,18,,18,,89.0,1,Data Structue
+18,18,,19,,85.0,1,Data Structue
+19,18,,20,,60.0,2,Data Structue
+20,18,,21,,76.0,1,Data Structue
+21,18,,22,,60.0,1,Data Structue
+22,18,,23,,69.0,1,Data Structue
+23,19,,24,,59.0,1,Data Structue
+24,20,,25,,85.0,2,Data Structue
+25,18,,26,,85.0,1,Data Structue
+26,20,,27,,47.0,1,Data Structue
+27,20,,28,,85.0,1,Data Structue
+28,21,,29,,82.0,1,Data Structue
+29,19,,30,,79.0,2,Data Structue
+30,20,,31,,69.0,1,Data Structue
+31,21,,32,,60.0,1,Data Structue
+32,19,,33,,39.0,1,Data Structue
+33,18,,34,,0.0,1,Data Structue
+34,20,,35,,47.0,2,Data Structue
+35,19,,36,,59.0,1,Data Structue
+36,18,,37,,47.0,1,Data Structue
+37,20,,38,,69.0,1,Data Structue
+38,18,,39,,39.0,1,Data Structue
+39,19,,40,,60.0,2,Data Structue
+40,20,,41,,69.0,1,Data Structue
+41,20,,42,,89.0,1,Data Structue
+42,21,,43,,59.0,1,Data Structue
+43,18,,44,,79.0,1,Data Structue
+44,20,,45,,76.0,2,Data Structue
+45,21,,46,,59.0,1,Data Structue
+46,21,,47,,79.0,1,Data Structue
+47,18,,48,,76.0,1,Data Structue
+48,18,,49,,59.0,1,Data Structue
+49,19,,50,,60.0,2,Data Structue
+50,18,,51,,76.0,1,Data Structue
+51,19,,52,,82.0,1,Data Structue
+52,19,,53,,39.0,1,Data Structue
+53,20,,54,,89.0,1,Data Structue
+54,21,,55,,82.0,2,Data Structue
+55,18,,56,,85.0,1,Data Structue
+56,20,,57,,47.0,1,Data Structue
+57,20,,58,,69.0,1,Data Structue
+58,20,,59,,69.0,1,Data Structue
+59,18,,60,,89.0,2,Data Structue
+60,19,,61,,82.0,1,Data Structue
+61,18,,62,,47.0,1,Data Structue
+62,20,,63,,76.0,1,Data Structue
+63,18,,64,,76.0,1,Data Structue
+64,21,,65,,79.0,2,Data Structue
+65,21,,66,,39.0,1,Data Structue
+66,20,,67,,69.0,1,Data Structue
+67,21,,68,,60.0,1,Data Structue
+68,19,,69,,39.0,1,Data Structue
+69,20,,70,,69.0,2,Data Structue
+70,20,,71,,47.0,1,Data Structue
+71,21,,72,,59.0,1,Data Structue
+72,20,,73,,47.0,1,Data Structue
+73,19,,74,,79.0,1,Data Structue
+74,18,,75,,76.0,2,Data Structue
+75,20,,76,,89.0,1,Data Structue
+76,19,,77,,60.0,1,Data Structue
+77,20,,78,,47.0,1,Data Structue
+78,18,,79,,59.0,1,Data Structue
+79,19,,80,,79.0,2,Data Structue
+80,19,,81,,82.0,1,Data Structue
+81,18,,82,,89.0,1,Data Structue
+82,20,,83,,47.0,1,Data Structue
+83,19,,84,,39.0,1,Data Structue
+84,21,,85,,39.0,2,Data Structue
+85,18,,86,,79.0,1,Data Structue
+86,19,,87,,0.0,1,Data Structue
+87,21,,88,,79.0,1,Data Structue
+88,18,,89,,39.0,1,Data Structue
+89,21,,90,,39.0,2,Data Structue
+90,19,,91,,79.0,1,Data Structue
+91,19,,92,,82.0,1,Data Structue
+92,19,,93,,79.0,1,Data Structue
+93,18,,94,,85.0,1,Data Structue
+94,19,,95,,59.0,2,Data Structue
+95,18,,96,,69.0,1,Data Structue
+96,19,,97,,82.0,1,Data Structue
+97,18,,98,,89.0,1,Data Structue
+98,21,,99,,59.0,1,Data Structue
+99,19,,100,,59.0,2,Data Structue
+100,18,,101,,39.0,1,Data Structue
+101,20,,102,,47.0,1,Data Structue
+102,18,,103,,89.0,1,Data Structue
+103,21,,104,,60.0,1,Data Structue
+104,18,,105,,76.0,2,Data Structue
+105,19,,106,,59.0,1,Data Structue
+106,21,,107,,39.0,1,Data Structue
+107,21,,108,,79.0,1,Data Structue
+108,19,,109,,39.0,1,Data Structue
+109,21,,110,,79.0,2,Data Structue
+110,21,,111,,59.0,1,Data Structue
+111,18,,112,,79.0,1,Data Structue
+112,19,,113,,82.0,1,Data Structue
+113,19,,114,,39.0,1,Data Structue
+114,20,,115,,89.0,2,Data Structue
+115,21,,116,,82.0,1,Data Structue
+116,18,,117,,69.0,1,Data Structue
+117,20,,118,,47.0,1,Data Structue
+118,20,,119,,76.0,1,Data Structue
+119,21,,120,,79.0,2,Data Structue
+120,18,,121,,85.0,1,Data Structue
+121,18,,122,,82.0,1,Data Structue
+122,21,,123,,79.0,1,Data Structue
+123,19,,124,,39.0,1,Data Structue
+124,18,,125,,47.0,2,Data Structue
+125,20,,126,,89.0,1,Data Structue
+126,21,,127,,39.0,1,Data Structue
+127,20,,128,,69.0,1,Data Structue
+128,21,,129,,60.0,1,Data Structue
+129,18,,130,,69.0,2,Data Structue
+130,18,,131,,60.0,1,Data Structue
+131,20,,132,,69.0,1,Data Structue
+132,18,,133,,47.0,1,Data Structue
+133,18,,134,,79.0,1,Data Structue
+134,18,,135,,79.0,2,Data Structue
+135,21,,136,,59.0,1,Data Structue
+136,21,,137,,59.0,1,Data Structue
+137,20,,138,,85.0,1,Data Structue
+138,21,,139,,79.0,1,Data Structue
+139,21,,140,,0.0,2,Data Structue
+140,18,,141,,76.0,1,Data Structue
+141,20,,142,,89.0,1,Data Structue
+142,18,,143,,79.0,1,Data Structue
+143,18,,144,,60.0,1,Data Structue
+144,21,,145,,82.0,2,Data Structue
+145,20,,146,,76.0,1,Data Structue
+146,18,,147,,47.0,1,Data Structue
+147,19,,148,,82.0,1,Data Structue
+148,18,,149,,39.0,1,Data Structue
+149,21,,150,,59.0,2,Data Structue
+150,18,,151,,89.0,1,Data Structue
+151,18,,152,,25.0,1,Data Structue
+152,18,,153,,60.0,1,Data Structue
+153,19,,154,,39.0,1,Data Structue
+154,18,,155,,47.0,2,Data Structue
+155,19,,156,,39.0,1,Data Structue
+156,18,,157,,47.0,1,Data Structue
+157,18,,158,,85.0,1,Data Structue
+158,19,,159,,79.0,1,Data Structue
+159,18,,160,,47.0,2,Data Structue
+160,18,,161,,82.0,1,Data Structue
+161,18,,162,,0.0,1,Data Structue
+162,18,,163,,76.0,1,Data Structue
+163,19,,164,,79.0,1,Data Structue
+164,18,,165,,39.0,2,Data Structue
+165,20,,166,,76.0,1,Data Structue
+166,18,,167,,85.0,1,Data Structue
+167,19,,168,,59.0,1,Data Structue
+168,19,,169,,59.0,1,Data Structue
+169,18,,170,,69.0,2,Data Structue
+170,18,,171,,82.0,1,Data Structue
+171,18,,172,,59.0,1,Data Structue
+172,20,,173,,47.0,1,Data Structue
+173,19,,174,,82.0,1,Data Structue
+174,19,,175,,39.0,2,Data Structue
+175,18,,176,,89.0,1,Data Structue
+176,18,,177,,69.0,1,Data Structue
+177,20,,178,,47.0,1,Data Structue
+178,18,,179,,47.0,1,Data Structue
+179,18,,180,,89.0,2,Data Structue
+180,20,,181,,89.0,1,Data Structue
+181,19,,182,,79.0,1,Data Structue
+182,19,,183,,82.0,1,Data Structue
+183,19,,184,,82.0,1,Data Structue
+184,20,,185,,89.0,2,Data Structue
+185,20,,186,,69.0,1,Data Structue
+186,20,,187,,69.0,1,Data Structue
+187,20,,188,,89.0,1,Data Structue
+188,20,,189,,85.0,1,Data Structue
+189,18,,190,,76.0,2,Data Structue
+190,19,,191,,79.0,1,Data Structue
+191,18,,192,,85.0,1,Data Structue
+192,19,,193,,79.0,1,Data Structue
+193,21,,194,,79.0,1,Data Structue
+194,20,,195,,85.0,2,Data Structue
+195,18,,196,,85.0,1,Data Structue
+196,21,,197,,79.0,1,Data Structue
+197,20,,198,,89.0,1,Data Structue
+198,21,,199,,82.0,1,Data Structue
+199,18,,200,,47.0,2,Data Structue
+200,18,,201,,60.0,1,Data Structue
+201,20,,202,,85.0,1,Data Structue
+202,19,,203,,39.0,1,Data Structue
+203,19,,204,,79.0,1,Data Structue
+204,18,,205,,76.0,2,Data Structue
+205,19,,206,,60.0,1,Data Structue
+206,20,,207,,69.0,1,Data Structue
+207,18,,208,,69.0,1,Data Structue
+208,18,,209,,89.0,1,Data Structue
+209,19,,210,,60.0,2,Data Structue
+210,21,,211,,60.0,1,Data Structue
+211,19,,212,,82.0,1,Data Structue
+212,19,,213,,82.0,1,Data Structue
+213,18,,214,,69.0,1,Data Structue
+214,19,,215,,60.0,2,Data Structue
+215,19,,216,,0.0,1,Data Structue
+216,20,,217,,76.0,1,Data Structue
+217,18,,218,,76.0,1,Data Structue
+218,19,,219,,39.0,1,Data Structue
+219,18,,220,,89.0,2,Data Structue
+220,19,,221,,60.0,1,Data Structue
+221,21,,222,,79.0,1,Data Structue
+222,18,,223,,76.0,1,Data Structue
+223,18,,224,,85.0,1,Data Structue
+224,21,,225,,79.0,2,Data Structue
+225,20,,226,,89.0,1,Data Structue
+226,20,,227,,47.0,1,Data Structue
+227,20,,228,,85.0,1,Data Structue
+228,19,,229,,39.0,1,Data Structue
+229,18,,230,,59.0,2,Data Structue
+230,20,,231,,69.0,1,Data Structue
+231,18,,232,,85.0,1,Data Structue
+232,20,,233,,47.0,1,Data Structue
+233,18,,234,,47.0,1,Data Structue
+234,18,,235,,47.0,2,Data Structue
+235,18,,236,,89.0,1,Data Structue
+236,20,,237,,69.0,1,Data Structue
+237,20,,238,,89.0,1,Data Structue
+238,18,,239,,76.0,1,Data Structue
+239,18,,240,,47.0,2,Data Structue
+240,18,,241,,89.0,1,Data Structue
+241,20,,242,,69.0,1,Data Structue
+242,18,,243,,60.0,1,Data Structue
+243,20,,244,,85.0,1,Data Structue
+244,20,,245,,85.0,2,Data Structue
+245,18,,246,,79.0,1,Data Structue
+246,20,,247,,69.0,1,Data Structue
+247,18,,248,,60.0,1,Data Structue
+248,20,,249,,69.0,1,Data Structue
+249,19,,250,,82.0,2,Data Structue
+250,18,,251,,82.0,1,Data Structue
+251,20,,252,,76.0,1,Data Structue
+252,18,,253,,59.0,1,Data Structue
+253,19,,254,,39.0,1,Data Structue
+254,18,,255,,79.0,2,Data Structue
+255,19,,256,,59.0,1,Data Structue
+256,20,,257,,69.0,1,Data Structue
+257,18,,258,,69.0,1,Data Structue
+258,20,,259,,47.0,1,Data Structue
+259,18,,260,,39.0,2,Data Structue
+260,18,,261,,85.0,1,Data Structue
+261,18,,262,,89.0,1,Data Structue
+262,18,,263,,89.0,1,Data Structue
+263,20,,264,,76.0,1,Data Structue
+264,18,,265,,47.0,2,Data Structue
+265,21,,266,,60.0,1,Data Structue
+266,19,,267,,39.0,1,Data Structue
+267,20,,268,,76.0,1,Data Structue
+268,19,,269,,59.0,1,Data Structue
+269,19,,270,,59.0,2,Data Structue
+270,21,,271,,82.0,1,Data Structue
+271,20,,272,,76.0,1,Data Structue
+272,18,,273,,89.0,1,Data Structue
+273,20,,274,,47.0,1,Data Structue
+274,18,,275,,85.0,2,Data Structue
+275,19,,276,,59.0,1,Data Structue
+276,19,,277,,59.0,1,Data Structue
+277,18,,278,,85.0,1,Data Structue
+278,18,,279,,60.0,1,Data Structue
+279,19,,280,,59.0,2,Data Structue
+280,19,,281,,39.0,1,Data Structue
+281,20,,282,,85.0,1,Data Structue
+282,21,,283,,39.0,1,Data Structue
+283,20,,284,,47.0,1,Data Structue
+284,18,,285,,69.0,2,Data Structue
+285,18,,286,,47.0,1,Data Structue
+286,18,,287,,89.0,1,Data Structue
+287,18,,288,,89.0,1,Data Structue
+288,19,,289,,79.0,1,Data Structue
+289,20,,290,,85.0,2,Data Structue
+290,19,,291,,60.0,1,Data Structue
+291,20,,292,,89.0,1,Data Structue
+292,19,,293,,82.0,1,Data Structue
+293,19,,294,,79.0,1,Data Structue
+294,18,,295,,60.0,2,Data Structue
+295,20,,296,,89.0,1,Data Structue
+296,18,,297,,85.0,1,Data Structue
+297,20,,298,,89.0,1,Data Structue
+298,18,,299,,79.0,1,Data Structue
+299,18,,300,,85.0,2,Data Structue
+300,19,,301,,58.0,1,Data Structue
+301,18,,302,,47.0,1,Data Structue
+302,19,,303,,79.0,1,Data Structue
+303,21,,304,,60.0,1,Data Structue
+304,20,,305,,47.0,2,Data Structue
+305,20,,306,,76.0,1,Data Structue
+306,18,,307,,69.0,1,Data Structue
+307,18,,308,,69.0,1,Data Structue
+308,19,,309,,58.0,1,Data Structue
+309,19,,310,,82.0,2,Data Structue
+310,20,,311,,85.0,1,Data Structue
+311,18,,312,,69.0,1,Data Structue
+312,21,,313,,60.0,1,Data Structue
+313,18,,314,,76.0,1,Data Structue
+314,21,,315,,39.0,2,Data Structue
+315,19,,316,,60.0,1,Data Structue
+316,19,,317,,60.0,1,Data Structue
+317,20,,318,,85.0,1,Data Structue
+318,19,,319,,60.0,1,Data Structue
+319,18,,320,,69.0,2,Data Structue
+320,20,,321,,85.0,1,Data Structue
+321,18,,322,,39.0,1,Data Structue
+322,18,,323,,69.0,1,Data Structue
+323,20,,324,,69.0,1,Data Structue
+324,21,,325,,59.0,2,Data Structue
+325,19,,326,,60.0,1,Data Structue
+326,19,,327,,79.0,1,Data Structue
+327,21,,328,,59.0,1,Data Structue
+328,20,,329,,89.0,1,Data Structue
+329,18,,330,,89.0,2,Data Structue
+330,18,,331,,89.0,1,Data Structue
+331,20,,332,,47.0,1,Data Structue
+332,19,,333,,60.0,1,Data Structue
+333,18,,334,,60.0,1,Data Structue
+334,20,,335,,47.0,2,Data Structue
+335,20,,336,,89.0,1,Data Structue
+336,20,,337,,85.0,1,Data Structue
+337,19,,338,,59.0,1,Data Structue
+338,18,,339,,82.0,1,Data Structue
+339,21,,340,,82.0,2,Data Structue
+340,19,,341,,59.0,1,Data Structue
+341,19,,342,,60.0,1,Data Structue
+342,21,,343,,60.0,1,Data Structue
+343,18,,344,,39.0,1,Data Structue
+344,21,,345,,82.0,2,Data Structue
+345,20,,346,,89.0,1,Data Structue
+346,19,,347,,60.0,1,Data Structue
+347,18,,348,,85.0,1,Data Structue
+348,19,,349,,79.0,1,Data Structue
+349,19,,350,,59.0,2,Data Structue
+350,18,,351,,69.0,1,Data Structue
+351,18,,352,,25.0,1,Data Structue
+352,18,,353,,59.0,1,Data Structue
+353,18,,354,,89.0,1,Data Structue
+354,20,,355,,76.0,2,Data Structue
+355,18,,356,,76.0,1,Data Structue
+356,18,,357,,59.0,1,Data Structue
+357,21,,358,,82.0,1,Data Structue
+358,18,,359,,69.0,1,Data Structue
+359,21,,360,,39.0,2,Data Structue
+360,18,,361,,39.0,1,Data Structue
+361,20,,362,,69.0,1,Data Structue
+362,19,,363,,82.0,1,Data Structue
+363,19,,364,,79.0,1,Data Structue
+364,19,,365,,60.0,2,Data Structue
+365,18,,366,,60.0,1,Data Structue
+366,20,,367,,69.0,1,Data Structue
+367,20,,368,,69.0,1,Data Structue
+368,19,,369,,39.0,1,Data Structue
+369,20,,370,,85.0,2,Data Structue
+370,18,,371,,85.0,1,Data Structue
+371,18,,372,,76.0,1,Data Structue
+372,20,,373,,69.0,1,Data Structue
+373,20,,374,,85.0,1,Data Structue
+374,19,,375,,82.0,2,Data Structue
+375,21,,376,,82.0,1,Data Structue
+376,19,,377,,60.0,1,Data Structue
+377,18,,378,,89.0,1,Data Structue
+378,18,,379,,39.0,1,Data Structue
+379,20,,380,,47.0,2,Data Structue
+380,20,,381,,85.0,1,Data Structue
+381,18,,382,,69.0,1,Data Structue
+382,21,,383,,60.0,1,Data Structue
+383,19,,384,,60.0,1,Data Structue
+384,20,,385,,85.0,2,Data Structue
+385,18,,386,,79.0,1,Data Structue
+386,20,,387,,76.0,1,Data Structue
+387,19,,388,,60.0,1,Data Structue
+388,18,,389,,69.0,1,Data Structue
+389,18,,390,,85.0,2,Data Structue
+390,19,,391,,39.0,1,Data Structue
+391,20,,392,,76.0,1,Data Structue
+392,20,,393,,85.0,1,Data Structue
+393,18,,394,,69.0,1,Data Structue
+394,20,,395,,76.0,2,Data Structue
+395,20,,396,,89.0,1,Data Structue
+396,19,,397,,82.0,1,Data Structue
+397,19,,398,,59.0,1,Data Structue
+398,21,,399,,79.0,1,Data Structue
+399,18,,400,,85.0,2,Data Structue
+400,20,,401,,85.0,1,Data Structue
+401,20,,402,,47.0,1,Data Structue
+402,20,,403,,89.0,1,Data Structue
+403,18,,404,,89.0,1,Data Structue
+404,18,,405,,47.0,2,Data Structue
+405,19,,406,,39.0,1,Data Structue
+406,18,,407,,69.0,1,Data Structue
+407,18,,408,,59.0,1,Data Structue
+408,19,,409,,39.0,1,Data Structue
+409,18,,410,,76.0,2,Data Structue
+410,18,,411,,76.0,1,Data Structue
+411,19,,412,,60.0,1,Data Structue
+412,21,,413,,59.0,1,Data Structue
+413,19,,414,,60.0,1,Data Structue
+414,18,,415,,89.0,2,Data Structue
+415,21,,416,,39.0,1,Data Structue
+416,19,,417,,59.0,1,Data Structue
+417,19,,418,,0.0,1,Data Structue
+418,19,,419,,59.0,1,Data Structue
+419,18,,420,,79.0,2,Data Structue
+420,18,,421,,69.0,1,Data Structue
+421,20,,422,,76.0,1,Data Structue
+422,20,,423,,76.0,1,Data Structue
+423,21,,424,,60.0,1,Data Structue
+424,19,,425,,79.0,2,Data Structue
+425,18,,426,,69.0,1,Data Structue
+426,20,,427,,85.0,1,Data Structue
+427,19,,428,,59.0,1,Data Structue
+428,20,,429,,76.0,1,Data Structue
+429,18,,430,,39.0,2,Data Structue
+430,20,,431,,89.0,1,Data Structue
+431,18,,432,,82.0,1,Data Structue
+432,18,,433,,47.0,1,Data Structue
+433,18,,434,,76.0,1,Data Structue
+434,19,,435,,60.0,2,Data Structue
+435,20,,436,,85.0,1,Data Structue
+436,18,,437,,39.0,1,Data Structue
+437,18,,438,,47.0,1,Data Structue
+438,19,,439,,79.0,1,Data Structue
+439,18,,440,,85.0,2,Data Structue
+440,18,,441,,47.0,1,Data Structue
+441,19,,442,,82.0,1,Data Structue
+442,18,,443,,79.0,1,Data Structue
+443,19,,444,,39.0,1,Data Structue
+444,18,,445,,47.0,2,Data Structue
+445,20,,446,,69.0,1,Data Structue
+446,19,,447,,79.0,1,Data Structue
+447,19,,448,,60.0,1,Data Structue
+448,20,,449,,76.0,1,Data Structue
+449,19,,450,,79.0,2,Data Structue
+450,20,,451,,76.0,1,Data Structue
+451,18,,452,,76.0,1,Data Structue
+452,18,,453,,89.0,1,Data Structue
+453,19,,454,,79.0,1,Data Structue
+454,20,,455,,69.0,2,Data Structue
+455,20,,456,,85.0,1,Data Structue
+456,18,,457,,89.0,1,Data Structue
+457,20,,458,,89.0,1,Data Structue
+458,18,,459,,47.0,1,Data Structue
+459,18,,460,,79.0,2,Data Structue
+460,20,,461,,89.0,1,Data Structue
+461,19,,462,,59.0,1,Data Structue
+462,20,,463,,85.0,1,Data Structue
+463,20,,464,,69.0,1,Data Structue
+464,21,,465,,0.0,2,Data Structue
+465,20,,466,,47.0,1,Data Structue
+466,21,,467,,82.0,1,Data Structue
+467,18,,468,,60.0,1,Data Structue
+468,18,,469,,47.0,1,Data Structue
+469,18,,470,,76.0,2,Data Structue
+470,18,,471,,76.0,1,Data Structue
+471,20,,472,,47.0,1,Data Structue
+472,21,,473,,79.0,1,Data Structue
+473,21,,474,,39.0,1,Data Structue
+474,20,,475,,85.0,2,Data Structue
+475,20,,476,,76.0,1,Data Structue
+476,19,,477,,39.0,1,Data Structue
+477,18,,478,,69.0,1,Data Structue
+478,18,,479,,89.0,1,Data Structue
+479,21,,480,,82.0,2,Data Structue
+480,19,,481,,82.0,1,Data Structue
+481,18,,482,,79.0,1,Data Structue
+482,20,,483,,76.0,1,Data Structue
+483,19,,484,,60.0,1,Data Structue
+484,18,,485,,82.0,2,Data Structue
+485,20,,486,,85.0,1,Data Structue
+486,20,,487,,89.0,1,Data Structue
+487,18,,488,,69.0,1,Data Structue
+488,18,,489,,69.0,1,Data Structue
+489,20,,490,,47.0,2,Data Structue
+490,18,,491,,82.0,1,Data Structue
+491,20,,492,,76.0,1,Data Structue
+492,19,,493,,82.0,1,Data Structue
+493,20,,494,,85.0,1,Data Structue
+494,18,,495,,69.0,2,Data Structue
+495,18,,496,,69.0,1,Data Structue
+496,18,,497,,85.0,1,Data Structue
+497,19,,498,,79.0,1,Data Structue
+498,18,,499,,82.0,1,Data Structue
+499,18,,500,,47.0,2,Data Structue
+500,20,,501,,47.0,1,Data Structue
+501,18,,502,,59.0,1,Data Structue
+502,18,,503,,85.0,1,Data Structue
+503,18,,504,,85.0,1,Data Structue
+504,19,,505,,39.0,2,Data Structue
+505,21,,506,,60.0,1,Data Structue
+506,21,,507,,60.0,1,Data Structue
+507,18,,508,,47.0,1,Data Structue
+508,19,,509,,59.0,1,Data Structue
+509,18,,510,,47.0,2,Data Structue
+510,18,,511,,85.0,1,Data Structue
+511,20,,512,,76.0,1,Data Structue
+512,19,,513,,39.0,1,Data Structue
+513,19,,514,,59.0,1,Data Structue
+514,18,,515,,59.0,2,Data Structue
+515,18,,516,,47.0,1,Data Structue
+516,18,,517,,76.0,1,Data Structue
+517,19,,518,,82.0,1,Data Structue
+518,20,,519,,89.0,1,Data Structue
+519,19,,520,,58.0,2,Data Structue
+520,20,,521,,76.0,1,Data Structue
+521,19,,522,,39.0,1,Data Structue
+522,18,,523,,47.0,1,Data Structue
+523,21,,524,,39.0,1,Data Structue
+524,19,,525,,79.0,2,Data Structue
+525,18,,526,,85.0,1,Data Structue
+526,20,,527,,69.0,1,Data Structue
+527,18,,528,,82.0,1,Data Structue
+528,19,,529,,39.0,1,Data Structue
+529,19,,530,,82.0,2,Data Structue
+530,18,,531,,39.0,1,Data Structue
+531,21,,532,,59.0,1,Data Structue
+532,21,,533,,39.0,1,Data Structue
+533,21,,534,,82.0,1,Data Structue
+534,20,,535,,89.0,2,Data Structue
+535,20,,536,,89.0,1,Data Structue
+536,18,,537,,76.0,1,Data Structue
+537,19,,538,,59.0,1,Data Structue
+538,18,,539,,85.0,1,Data Structue
+539,18,,540,,59.0,2,Data Structue
+540,21,,541,,60.0,1,Data Structue
+541,18,,542,,89.0,1,Data Structue
+542,18,,543,,76.0,1,Data Structue
+543,20,,544,,69.0,1,Data Structue
+544,20,,545,,76.0,2,Data Structue
+545,19,,546,,79.0,1,Data Structue
+546,19,,547,,59.0,1,Data Structue
+547,18,,548,,82.0,1,Data Structue
+548,19,,549,,79.0,1,Data Structue
+549,20,,550,,76.0,2,Data Structue
+550,18,,551,,76.0,1,Data Structue
+551,18,,552,,85.0,1,Data Structue
+552,19,,553,,79.0,1,Data Structue
+553,21,,554,,59.0,1,Data Structue
+554,19,,555,,60.0,2,Data Structue
+555,18,,556,,76.0,1,Data Structue
+556,19,,557,,60.0,1,Data Structue
+557,19,,558,,59.0,1,Data Structue
+558,18,,559,,85.0,1,Data Structue
+559,20,,560,,89.0,2,Data Structue
+560,18,,561,,60.0,1,Data Structue
+561,20,,562,,47.0,1,Data Structue
+562,19,,563,,59.0,1,Data Structue
+563,18,,564,,39.0,1,Data Structue
+564,21,,565,,59.0,2,Data Structue
+565,18,,566,,59.0,1,Data Structue
+566,21,,567,,60.0,1,Data Structue
+567,18,,568,,47.0,1,Data Structue
+568,20,,569,,89.0,1,Data Structue
+569,19,,570,,59.0,2,Data Structue
+570,19,,571,,39.0,1,Data Structue
+571,20,,572,,76.0,1,Data Structue
+572,18,,573,,47.0,1,Data Structue
+573,18,,574,,79.0,1,Data Structue
+574,20,,575,,69.0,2,Data Structue
+575,21,,576,,79.0,1,Data Structue
+576,18,,577,,69.0,1,Data Structue
+577,19,,578,,79.0,1,Data Structue
+578,18,,579,,76.0,1,Data Structue
+579,21,,580,,59.0,2,Data Structue
+580,18,,581,,89.0,1,Data Structue
+581,20,,582,,85.0,1,Data Structue
+582,21,,583,,39.0,1,Data Structue
+583,18,,584,,89.0,1,Data Structue
+584,18,,585,,85.0,2,Data Structue
+585,20,,586,,47.0,1,Data Structue
+586,19,,587,,79.0,1,Data Structue
+587,18,,588,,39.0,1,Data Structue
+588,19,,589,,82.0,1,Data Structue
+589,20,,590,,76.0,2,Data Structue
+590,19,,591,,59.0,1,Data Structue
+591,19,,592,,82.0,1,Data Structue
+592,20,,593,,85.0,1,Data Structue
+593,19,,594,,82.0,1,Data Structue
+594,19,,595,,39.0,2,Data Structue
+595,18,,596,,69.0,1,Data Structue
+596,20,,597,,47.0,1,Data Structue
+597,20,,598,,69.0,1,Data Structue
+598,19,,599,,0.0,1,Data Structue
